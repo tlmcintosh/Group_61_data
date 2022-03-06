@@ -1,0 +1,1057 @@
+,State,County,Year,Days with AQI,Hazardous Days,Max AQI,90th Percentile AQI,Days Ozone,cnty_state,county_id_fips
+0,Alabama,Baldwin,2018,270,0,97,50,214,"Baldwin County, Alabama",01003
+1,Alabama,Clay,2018,110,0,64,45,0,"Clay County, Alabama",01027
+2,Alabama,Colbert,2018,277,0,93,50,209,"Colbert County, Alabama",01033
+3,Alabama,DeKalb,2018,350,0,84,50,317,"DeKalb County, Alabama",01049
+4,Alabama,Elmore,2018,222,0,71,49,222,"Elmore County, Alabama",01051
+5,Alabama,Etowah,2018,324,0,153,61,179,"Etowah County, Alabama",01055
+6,Alabama,Houston,2018,277,0,80,51,211,"Houston County, Alabama",01069
+7,Alabama,Jefferson,2018,365,0,156,74,100,"Jefferson County, Alabama",01073
+8,Alabama,Lawrence,2018,118,0,61,45,0,"Lawrence County, Alabama",01079
+9,Alabama,Madison,2018,365,0,115,58,130,"Madison County, Alabama",01089
+10,Alabama,Mobile,2018,365,0,105,57,150,"Mobile County, Alabama",01097
+11,Alabama,Montgomery,2018,324,0,93,66,43,"Montgomery County, Alabama",01101
+12,Alabama,Morgan,2018,364,0,100,54,176,"Morgan County, Alabama",01103
+13,Alabama,Russell,2018,364,0,99,61,115,"Russell County, Alabama",01113
+14,Alabama,Shelby,2018,363,0,124,50,232,"Shelby County, Alabama",01117
+15,Alabama,Sumter,2018,365,0,77,47,222,"Sumter County, Alabama",01119
+16,Alabama,Tuscaloosa,2018,320,0,115,56,195,"Tuscaloosa County, Alabama",01125
+17,Alaska,Aleutians East ,2018,120,0,34,21,0,"Aleutians East  County, Alaska",
+18,Alaska,Anchorage ,2018,365,0,87,57,0,"Anchorage  County, Alaska",
+19,Alaska,Bethel ,2018,202,0,77,33,0,"Bethel  County, Alaska",
+20,Alaska,Denali ,2018,364,0,58,44,363,"Denali  County, Alaska",
+21,Alaska,Fairbanks North Star ,2018,365,0,156,103,113,"Fairbanks North Star  County, Alaska",
+22,Alaska,Juneau ,2018,352,0,83,54,0,"Juneau  County, Alaska",
+23,Alaska,Kenai Peninsula ,2018,120,0,27,15,0,"Kenai Peninsula  County, Alaska",
+24,Alaska,Matanuska-Susitna ,2018,365,0,151,53,221,"Matanuska-Susitna  County, Alaska",
+25,Arizona,Apache,2018,358,0,55,26,0,"Apache County, Arizona",04001
+26,Arizona,Cochise,2018,365,0,90,63,313,"Cochise County, Arizona",04003
+27,Arizona,Coconino,2018,365,0,126,77,358,"Coconino County, Arizona",04005
+28,Arizona,Gila,2018,365,0,184,117,161,"Gila County, Arizona",04007
+29,Arizona,La Paz,2018,364,0,105,70,351,"La Paz County, Arizona",04012
+30,Arizona,Maricopa,2018,365,0,249,115,184,"Maricopa County, Arizona",04013
+31,Arizona,Mohave,2018,363,0,105,33,0,"Mohave County, Arizona",04015
+32,Arizona,Navajo,2018,363,0,115,74,353,"Navajo County, Arizona",04017
+33,Arizona,Pima,2018,365,0,129,84,255,"Pima County, Arizona",04019
+34,Arizona,Pinal,2018,365,8,996,108,131,"Pinal County, Arizona",04021
+35,Arizona,Santa Cruz,2018,365,0,183,59,0,"Santa Cruz County, Arizona",04023
+36,Arizona,Yavapai,2018,365,0,101,61,363,"Yavapai County, Arizona",04025
+37,Arizona,Yuma,2018,365,0,169,80,235,"Yuma County, Arizona",04027
+38,Arkansas,Arkansas,2018,118,0,90,54,0,"Arkansas County, Arkansas",05001
+39,Arkansas,Ashley,2018,121,0,103,52,0,"Ashley County, Arkansas",05003
+40,Arkansas,Clark,2018,361,0,87,46,361,"Clark County, Arkansas",05019
+41,Arkansas,Craighead,2018,90,0,72,56,0,"Craighead County, Arkansas",05031
+42,Arkansas,Crittenden,2018,365,0,115,60,187,"Crittenden County, Arkansas",05035
+43,Arkansas,Garland,2018,121,0,86,54,0,"Garland County, Arkansas",05051
+44,Arkansas,Jackson,2018,122,0,71,53,0,"Jackson County, Arkansas",05067
+45,Arkansas,Newton,2018,364,0,84,48,352,"Newton County, Arkansas",05101
+46,Arkansas,Polk,2018,363,0,93,54,311,"Polk County, Arkansas",05113
+47,Arkansas,Pulaski,2018,365,0,122,64,146,"Pulaski County, Arkansas",05119
+48,Arkansas,Union,2018,365,0,122,59,0,"Union County, Arkansas",05139
+49,Arkansas,Washington,2018,365,0,87,64,216,"Washington County, Arkansas",05143
+50,California,Alameda,2018,365,0,223,76,72,"Alameda County, California",06001
+51,California,Amador,2018,364,0,129,71,364,"Amador County, California",06005
+52,California,Butte,2018,365,4,445,104,203,"Butte County, California",06007
+53,California,Calaveras,2018,364,0,157,87,141,"Calaveras County, California",06009
+54,California,Colusa,2018,365,0,274,81,176,"Colusa County, California",06011
+55,California,Contra Costa,2018,365,0,245,71,107,"Contra Costa County, California",06013
+56,California,Del Norte,2018,180,0,77,52,0,"Del Norte County, California",06015
+57,California,El Dorado,2018,365,0,203,101,353,"El Dorado County, California",06017
+58,California,Fresno,2018,365,0,185,133,231,"Fresno County, California",06019
+59,California,Glenn,2018,363,0,230,69,154,"Glenn County, California",06021
+60,California,Humboldt,2018,365,0,163,53,251,"Humboldt County, California",06023
+61,California,Imperial,2018,365,0,286,108,129,"Imperial County, California",06025
+62,California,Inyo,2018,365,1,624,101,311,"Inyo County, California",06027
+63,California,Kern,2018,365,0,190,142,246,"Kern County, California",06029
+64,California,Kings,2018,365,0,180,114,186,"Kings County, California",06031
+65,California,Lake,2018,357,0,208,43,344,"Lake County, California",06033
+66,California,Los Angeles,2018,365,0,201,130,175,"Los Angeles County, California",06037
+67,California,Madera,2018,365,0,165,100,210,"Madera County, California",06039
+68,California,Marin,2018,365,0,218,58,135,"Marin County, California",06041
+69,California,Mariposa,2018,365,1,301,108,265,"Mariposa County, California",06043
+70,California,Mendocino,2018,364,1,314,64,151,"Mendocino County, California",06045
+71,California,Merced,2018,365,0,171,101,196,"Merced County, California",06047
+72,California,Mono,2018,365,2,994,84,0,"Mono County, California",06051
+73,California,Monterey,2018,365,0,155,52,212,"Monterey County, California",06053
+74,California,Napa,2018,364,0,183,61,165,"Napa County, California",06055
+75,California,Nevada,2018,363,0,196,87,327,"Nevada County, California",06057
+76,California,Orange,2018,365,0,157,85,190,"Orange County, California",06059
+77,California,Placer,2018,365,0,223,84,220,"Placer County, California",06061
+78,California,Plumas,2018,350,0,159,84,0,"Plumas County, California",06063
+79,California,Riverside,2018,365,0,296,153,229,"Riverside County, California",06065
+80,California,Sacramento,2018,365,1,314,100,202,"Sacramento County, California",06067
+81,California,San Benito,2018,365,0,143,61,321,"San Benito County, California",06069
+82,California,San Bernardino,2018,365,0,221,164,215,"San Bernardino County, California",06071
+83,California,San Diego,2018,365,0,143,100,202,"San Diego County, California",06073
+84,California,San Francisco,2018,365,0,228,61,126,"San Francisco County, California",06075
+85,California,San Joaquin,2018,365,1,308,99,154,"San Joaquin County, California",06077
+86,California,San Luis Obispo,2018,365,0,133,74,234,"San Luis Obispo County, California",06079
+87,California,San Mateo,2018,365,0,185,56,138,"San Mateo County, California",06081
+88,California,Santa Barbara,2018,365,0,114,64,266,"Santa Barbara County, California",06083
+89,California,Santa Clara,2018,365,0,194,71,166,"Santa Clara County, California",06085
+90,California,Santa Cruz,2018,365,0,170,50,221,"Santa Cruz County, California",06087
+91,California,Shasta,2018,365,0,190,82,343,"Shasta County, California",06089
+92,California,Siskiyou,2018,365,0,196,119,241,"Siskiyou County, California",06093
+93,California,Solano,2018,365,0,247,64,184,"Solano County, California",06095
+94,California,Sonoma,2018,365,0,226,52,280,"Sonoma County, California",06097
+95,California,Stanislaus,2018,365,0,240,108,203,"Stanislaus County, California",06099
+96,California,Sutter,2018,365,1,335,100,166,"Sutter County, California",06101
+97,California,Tehama,2018,365,0,190,95,239,"Tehama County, California",06103
+98,California,Trinity,2018,291,0,191,79,0,"Trinity County, California",06105
+99,California,Tulare,2018,365,0,174,140,233,"Tulare County, California",06107
+100,California,Tuolumne,2018,348,0,154,80,348,"Tuolumne County, California",06109
+101,California,Ventura,2018,365,0,166,87,213,"Ventura County, California",06111
+102,California,Yolo,2018,365,0,235,67,249,"Yolo County, California",06113
+103,Colorado,Adams,2018,365,0,130,74,146,"Adams County, Colorado",08001
+104,Colorado,Alamosa,2018,360,0,235,33,0,"Alamosa County, Colorado",08003
+105,Colorado,Arapahoe,2018,365,0,156,87,354,"Arapahoe County, Colorado",08005
+106,Colorado,Archuleta,2018,365,0,97,50,331,"Archuleta County, Colorado",08007
+107,Colorado,Boulder,2018,362,0,159,96,285,"Boulder County, Colorado",08013
+108,Colorado,Chaffee,2018,164,0,161,87,164,"Chaffee County, Colorado",08015
+109,Colorado,Clear Creek,2018,291,0,164,100,291,"Clear Creek County, Colorado",08019
+110,Colorado,Delta,2018,297,0,83,47,213,"Delta County, Colorado",08029
+111,Colorado,Denver,2018,365,0,150,80,142,"Denver County, Colorado",08031
+112,Colorado,Douglas,2018,364,0,156,97,302,"Douglas County, Colorado",08035
+113,Colorado,El Paso,2018,365,0,119,84,329,"El Paso County, Colorado",08041
+114,Colorado,Fremont,2018,20,0,36,20,0,"Fremont County, Colorado",08043
+115,Colorado,Garfield,2018,365,0,151,87,362,"Garfield County, Colorado",08045
+116,Colorado,Grand,2018,166,0,151,67,166,"Grand County, Colorado",08049
+117,Colorado,Gunnison,2018,365,0,156,77,354,"Gunnison County, Colorado",08051
+118,Colorado,Jackson,2018,116,0,60,20,0,"Jackson County, Colorado",08057
+119,Colorado,Jefferson,2018,365,0,151,101,365,"Jefferson County, Colorado",08059
+120,Colorado,La Plata,2018,365,0,218,80,330,"La Plata County, Colorado",08067
+121,Colorado,Larimer,2018,365,0,169,97,322,"Larimer County, Colorado",08069
+122,Colorado,Mesa,2018,365,0,150,80,301,"Mesa County, Colorado",08077
+123,Colorado,Moffat,2018,331,0,108,61,331,"Moffat County, Colorado",08081
+124,Colorado,Montezuma,2018,359,0,115,71,356,"Montezuma County, Colorado",08083
+125,Colorado,Montrose,2018,326,0,122,64,326,"Montrose County, Colorado",08085
+126,Colorado,Park,2018,324,0,174,90,323,"Park County, Colorado",08093
+127,Colorado,Pitkin,2018,123,0,43,27,0,"Pitkin County, Colorado",08097
+128,Colorado,Prowers,2018,359,0,103,31,0,"Prowers County, Colorado",08099
+129,Colorado,Pueblo,2018,123,0,101,39,0,"Pueblo County, Colorado",08101
+130,Colorado,Rio Blanco,2018,365,0,108,71,329,"Rio Blanco County, Colorado",08103
+131,Colorado,Routt,2018,355,0,51,30,0,"Routt County, Colorado",08107
+132,Colorado,San Juan,2018,118,0,100,25,0,"San Juan County, Colorado",08111
+133,Colorado,San Miguel,2018,238,0,101,71,181,"San Miguel County, Colorado",08113
+134,Colorado,Teller,2018,160,0,133,97,160,"Teller County, Colorado",08119
+135,Colorado,Weld,2018,365,0,133,87,264,"Weld County, Colorado",08123
+136,Connecticut,Fairfield,2018,365,0,185,80,196,"Fairfield County, Connecticut",09001
+137,Connecticut,Hartford,2018,365,0,143,61,193,"Hartford County, Connecticut",09003
+138,Connecticut,Litchfield,2018,363,0,133,53,327,"Litchfield County, Connecticut",09005
+139,Connecticut,Middlesex,2018,208,0,126,67,208,"Middlesex County, Connecticut",09007
+140,Connecticut,New Haven,2018,365,0,156,68,205,"New Haven County, Connecticut",09009
+141,Connecticut,New London,2018,315,0,140,50,189,"New London County, Connecticut",09011
+142,Connecticut,Tolland,2018,213,0,140,54,213,"Tolland County, Connecticut",09013
+143,Connecticut,Windham,2018,358,0,129,47,358,"Windham County, Connecticut",09015
+144,Country Of Mexico,BAJA CALIFORNIA NORTE,2018,152,1,369,139,0,"BAJA CALIFORNIA NORTE County, Country Of Mexico",
+145,Country Of Mexico,SONORA,2018,362,0,119,51,362,"SONORA County, Country Of Mexico",
+146,Delaware,Kent,2018,365,0,133,55,277,"Kent County, Delaware",10001
+147,Delaware,New Castle,2018,365,0,150,67,230,"New Castle County, Delaware",10003
+148,Delaware,Sussex,2018,365,0,140,58,295,"Sussex County, Delaware",10005
+149,District Of Columbia,District of Columbia,2018,365,0,164,71,184,"District of Columbia County, District Of Columbia",11001
+150,Florida,Alachua,2018,364,0,90,48,293,"Alachua County, Florida",12001
+151,Florida,Baker,2018,360,0,87,46,360,"Baker County, Florida",12003
+152,Florida,Bay,2018,323,0,126,54,189,"Bay County, Florida",12005
+153,Florida,Brevard,2018,365,0,129,50,284,"Brevard County, Florida",12009
+154,Florida,Broward,2018,365,0,100,57,162,"Broward County, Florida",12011
+155,Florida,Citrus,2018,359,0,71,51,0,"Citrus County, Florida",12017
+156,Florida,Collier,2018,365,0,80,54,246,"Collier County, Florida",12021
+157,Florida,Columbia,2018,359,0,111,53,218,"Columbia County, Florida",12023
+158,Florida,Duval,2018,365,0,155,63,149,"Duval County, Florida",12031
+159,Florida,Escambia,2018,365,0,93,54,342,"Escambia County, Florida",12033
+160,Florida,Flagler,2018,345,0,77,47,345,"Flagler County, Florida",12035
+161,Florida,Hamilton,2018,359,0,65,48,0,"Hamilton County, Florida",12047
+162,Florida,Highlands,2018,351,0,108,47,351,"Highlands County, Florida",12055
+163,Florida,Hillsborough,2018,365,0,122,61,166,"Hillsborough County, Florida",12057
+164,Florida,Holmes,2018,346,0,79,52,196,"Holmes County, Florida",12059
+165,Florida,Indian River,2018,356,0,101,49,356,"Indian River County, Florida",12061
+166,Florida,Lake,2018,363,0,101,49,363,"Lake County, Florida",12069
+167,Florida,Lee,2018,365,0,106,53,294,"Lee County, Florida",12071
+168,Florida,Leon,2018,355,0,97,56,149,"Leon County, Florida",12073
+169,Florida,Liberty,2018,284,0,71,47,284,"Liberty County, Florida",12077
+170,Florida,Manatee,2018,365,0,119,50,365,"Manatee County, Florida",12081
+171,Florida,Marion,2018,365,0,90,51,229,"Marion County, Florida",12083
+172,Florida,Martin,2018,365,0,112,50,232,"Martin County, Florida",12085
+173,Florida,Miami-Dade,2018,365,0,126,58,139,"Miami-Dade County, Florida",12086
+174,Florida,Nassau,2018,354,0,106,48,0,"Nassau County, Florida",12089
+175,Florida,Okaloosa,2018,353,0,80,49,345,"Okaloosa County, Florida",12091
+176,Florida,Orange,2018,365,0,151,52,285,"Orange County, Florida",12095
+177,Florida,Osceola,2018,365,0,126,50,365,"Osceola County, Florida",12097
+178,Florida,Palm Beach,2018,365,0,91,52,219,"Palm Beach County, Florida",12099
+179,Florida,Pasco,2018,365,0,129,54,365,"Pasco County, Florida",12101
+180,Florida,Pinellas,2018,365,0,100,54,220,"Pinellas County, Florida",12103
+181,Florida,Polk,2018,365,0,112,52,275,"Polk County, Florida",12105
+182,Florida,Putnam,2018,345,0,51,23,0,"Putnam County, Florida",12107
+183,Florida,Santa Rosa,2018,363,0,90,54,221,"Santa Rosa County, Florida",12113
+184,Florida,Sarasota,2018,365,0,97,55,231,"Sarasota County, Florida",12115
+185,Florida,Seminole,2018,365,0,150,54,303,"Seminole County, Florida",12117
+186,Florida,St. Lucie,2018,360,0,100,47,360,"St. Lucie County, Florida",12111
+187,Florida,Volusia,2018,365,0,80,50,274,"Volusia County, Florida",12127
+188,Florida,Wakulla,2018,353,0,98,54,224,"Wakulla County, Florida",12129
+189,Georgia,Bibb,2018,365,0,106,56,168,"Bibb County, Georgia",13021
+190,Georgia,Charlton,2018,114,0,60,34,0,"Charlton County, Georgia",13049
+191,Georgia,Chatham,2018,365,0,82,54,104,"Chatham County, Georgia",13051
+192,Georgia,Chattooga,2018,245,0,87,50,245,"Chattooga County, Georgia",13055
+193,Georgia,Clarke,2018,332,0,105,58,151,"Clarke County, Georgia",13059
+194,Georgia,Clayton,2018,120,0,67,54,0,"Clayton County, Georgia",13063
+195,Georgia,Cobb,2018,286,0,100,58,225,"Cobb County, Georgia",13067
+196,Georgia,Coffee,2018,116,0,65,37,0,"Coffee County, Georgia",13069
+197,Georgia,Columbia,2018,245,0,90,50,245,"Columbia County, Georgia",13073
+198,Georgia,Dawson,2018,245,0,108,50,245,"Dawson County, Georgia",13085
+199,Georgia,DeKalb,2018,365,0,100,58,147,"DeKalb County, Georgia",13089
+200,Georgia,Dougherty,2018,357,0,137,57,0,"Dougherty County, Georgia",13095
+201,Georgia,Douglas,2018,242,0,93,51,242,"Douglas County, Georgia",13097
+202,Georgia,Floyd,2018,364,0,80,59,0,"Floyd County, Georgia",13115
+203,Georgia,Fulton,2018,365,0,133,66,114,"Fulton County, Georgia",13121
+204,Georgia,Glynn,2018,272,0,74,46,225,"Glynn County, Georgia",13127
+205,Georgia,Gwinnett,2018,361,0,87,62,122,"Gwinnett County, Georgia",13135
+206,Georgia,Hall,2018,322,0,68,52,0,"Hall County, Georgia",13139
+207,Georgia,Henry,2018,354,0,115,58,187,"Henry County, Georgia",13151
+208,Georgia,Houston,2018,322,0,108,58,0,"Houston County, Georgia",13153
+209,Georgia,Lowndes,2018,315,0,93,54,0,"Lowndes County, Georgia",13185
+210,Georgia,Murray,2018,271,0,100,51,222,"Murray County, Georgia",13213
+211,Georgia,Muscogee,2018,364,0,98,55,178,"Muscogee County, Georgia",13215
+212,Georgia,Pike,2018,288,0,115,46,288,"Pike County, Georgia",13231
+213,Georgia,Richmond,2018,364,0,150,59,106,"Richmond County, Georgia",13245
+214,Georgia,Rockdale,2018,243,0,112,61,243,"Rockdale County, Georgia",13247
+215,Georgia,Sumter,2018,241,0,80,50,241,"Sumter County, Georgia",13261
+216,Georgia,Walker,2018,347,0,72,56,0,"Walker County, Georgia",13295
+217,Georgia,Washington,2018,121,0,67,50,0,"Washington County, Georgia",13303
+218,Hawaii,Hawaii,2018,365,0,249,200,0,"Hawaii County, Hawaii",15001
+219,Hawaii,Honolulu,2018,365,0,75,41,241,"Honolulu County, Hawaii",15003
+220,Hawaii,Kauai,2018,355,0,48,29,0,"Kauai County, Hawaii",15007
+221,Hawaii,Maui,2018,361,0,73,29,0,"Maui County, Hawaii",15009
+222,Idaho,Ada,2018,365,0,134,69,267,"Ada County, Idaho",16001
+223,Idaho,Bannock,2018,365,0,174,57,0,"Bannock County, Idaho",16005
+224,Idaho,Benewah,2018,361,0,161,78,0,"Benewah County, Idaho",16009
+225,Idaho,Blaine,2018,363,0,143,48,0,"Blaine County, Idaho",16013
+226,Idaho,Boise,2018,365,0,130,67,0,"Boise County, Idaho",16015
+227,Idaho,Bonner,2018,363,0,245,60,0,"Bonner County, Idaho",16017
+228,Idaho,Bonneville,2018,352,0,154,55,0,"Bonneville County, Idaho",16019
+229,Idaho,Butte,2018,363,0,115,54,354,"Butte County, Idaho",16023
+230,Idaho,Canyon,2018,365,0,134,65,0,"Canyon County, Idaho",16027
+231,Idaho,Caribou,2018,363,0,55,17,0,"Caribou County, Idaho",16029
+232,Idaho,Custer,2018,90,0,128,19,0,"Custer County, Idaho",16037
+233,Idaho,Franklin,2018,319,0,124,56,0,"Franklin County, Idaho",16041
+234,Idaho,Idaho,2018,365,0,134,60,231,"Idaho County, Idaho",16049
+235,Idaho,Jerome,2018,320,0,145,51,0,"Jerome County, Idaho",16053
+236,Idaho,Kootenai,2018,331,0,204,60,0,"Kootenai County, Idaho",16055
+237,Idaho,Latah,2018,365,0,176,40,0,"Latah County, Idaho",16057
+238,Idaho,Lemhi,2018,360,0,121,70,0,"Lemhi County, Idaho",16059
+239,Idaho,Nez Perce,2018,365,0,179,63,0,"Nez Perce County, Idaho",16069
+240,Idaho,Shoshone,2018,365,0,153,83,0,"Shoshone County, Idaho",16079
+241,Idaho,Twin Falls,2018,355,0,151,55,0,"Twin Falls County, Idaho",16083
+242,Idaho,Valley,2018,353,0,108,58,0,"Valley County, Idaho",16085
+243,Illinois,Adams,2018,245,0,87,49,245,"Adams County, Illinois",17001
+244,Illinois,Champaign,2018,365,0,112,61,222,"Champaign County, Illinois",17019
+245,Illinois,Clark,2018,359,0,101,48,359,"Clark County, Illinois",17023
+246,Illinois,Cook,2018,365,0,177,84,120,"Cook County, Illinois",17031
+247,Illinois,DuPage,2018,361,0,112,69,135,"DuPage County, Illinois",17043
+248,Illinois,Effingham,2018,245,0,112,51,245,"Effingham County, Illinois",17049
+249,Illinois,Hamilton,2018,362,0,105,59,170,"Hamilton County, Illinois",17065
+250,Illinois,Jersey,2018,356,0,122,64,195,"Jersey County, Illinois",17083
+251,Illinois,Jo Daviess,2018,344,0,119,47,344,"Jo Daviess County, Illinois",17085
+252,Illinois,Kane,2018,364,0,122,61,310,"Kane County, Illinois",17089
+253,Illinois,La Salle,2018,362,0,62,6,0,"La Salle County, Illinois",
+254,Illinois,Lake,2018,352,0,164,58,352,"Lake County, Illinois",17097
+255,Illinois,Macon,2018,365,0,126,80,98,"Macon County, Illinois",17115
+256,Illinois,Macoupin,2018,364,0,115,50,244,"Macoupin County, Illinois",17117
+257,Illinois,Madison,2018,365,0,154,72,206,"Madison County, Illinois",17119
+258,Illinois,McHenry,2018,362,0,122,70,240,"McHenry County, Illinois",17111
+259,Illinois,McLean,2018,365,0,108,64,167,"McLean County, Illinois",17113
+260,Illinois,Monroe,2018,365,0,41,9,0,"Monroe County, Illinois",17133
+261,Illinois,Peoria,2018,365,0,101,64,192,"Peoria County, Illinois",17143
+262,Illinois,Randolph,2018,363,0,129,57,185,"Randolph County, Illinois",17157
+263,Illinois,Rock Island,2018,365,0,101,59,231,"Rock Island County, Illinois",17161
+264,Illinois,Saint Clair,2018,364,0,174,64,146,"Saint Clair County, Illinois",17163
+265,Illinois,Sangamon,2018,363,0,122,63,197,"Sangamon County, Illinois",17167
+266,Illinois,Tazewell,2018,137,0,27,4,0,"Tazewell County, Illinois",17179
+267,Illinois,Wabash,2018,363,0,61,14,0,"Wabash County, Illinois",17185
+268,Illinois,Will,2018,365,0,126,67,216,"Will County, Illinois",17197
+269,Illinois,Winnebago,2018,362,0,151,54,346,"Winnebago County, Illinois",17201
+270,Indiana,Allen,2018,365,0,122,66,216,"Allen County, Indiana",18003
+271,Indiana,Bartholomew,2018,365,0,108,61,242,"Bartholomew County, Indiana",18005
+272,Indiana,Boone,2018,365,0,112,54,365,"Boone County, Indiana",18011
+273,Indiana,Brown,2018,363,0,97,48,363,"Brown County, Indiana",18013
+274,Indiana,Carroll,2018,359,0,115,48,359,"Carroll County, Indiana",18015
+275,Indiana,Clark,2018,357,0,122,59,305,"Clark County, Indiana",18019
+276,Indiana,Daviess,2018,325,0,21,6,0,"Daviess County, Indiana",18027
+277,Indiana,Delaware,2018,361,0,129,54,317,"Delaware County, Indiana",18035
+278,Indiana,Dubois,2018,119,0,87,58,0,"Dubois County, Indiana",18037
+279,Indiana,Elkhart,2018,363,0,105,58,194,"Elkhart County, Indiana",18039
+280,Indiana,Floyd,2018,359,0,143,52,323,"Floyd County, Indiana",18043
+281,Indiana,Gibson,2018,363,0,84,23,0,"Gibson County, Indiana",18051
+282,Indiana,Greene,2018,361,0,129,56,322,"Greene County, Indiana",18055
+283,Indiana,Hamilton,2018,365,0,129,59,227,"Hamilton County, Indiana",18057
+284,Indiana,Hendricks,2018,365,0,108,48,365,"Hendricks County, Indiana",18063
+285,Indiana,Henry,2018,116,0,111,55,0,"Henry County, Indiana",18065
+286,Indiana,Howard,2018,365,0,108,58,214,"Howard County, Indiana",18067
+287,Indiana,Huntington,2018,358,0,97,46,358,"Huntington County, Indiana",18069
+288,Indiana,Jackson,2018,341,0,90,47,341,"Jackson County, Indiana",18071
+289,Indiana,Knox,2018,357,0,122,54,357,"Knox County, Indiana",18083
+290,Indiana,LaPorte,2018,363,0,161,61,335,"LaPorte County, Indiana",18091
+291,Indiana,Lake,2018,365,0,151,66,113,"Lake County, Indiana",18089
+292,Indiana,Madison,2018,365,0,136,59,211,"Madison County, Indiana",18095
+293,Indiana,Marion,2018,365,0,156,70,124,"Marion County, Indiana",18097
+294,Indiana,Monroe,2018,335,0,97,58,0,"Monroe County, Indiana",18105
+295,Indiana,Morgan,2018,365,0,110,51,342,"Morgan County, Indiana",18109
+296,Indiana,Perry,2018,350,0,80,50,350,"Perry County, Indiana",18123
+297,Indiana,Pike,2018,361,0,33,9,0,"Pike County, Indiana",18125
+298,Indiana,Porter,2018,365,0,161,62,211,"Porter County, Indiana",18127
+299,Indiana,Posey,2018,360,0,100,50,360,"Posey County, Indiana",18129
+300,Indiana,Shelby,2018,361,0,112,49,361,"Shelby County, Indiana",18145
+301,Indiana,Spencer,2018,121,0,85,56,0,"Spencer County, Indiana",18147
+302,Indiana,St. Joseph,2018,365,0,133,64,183,"St. Joseph County, Indiana",18141
+303,Indiana,Sullivan,2018,181,0,91,57,0,"Sullivan County, Indiana",18153
+304,Indiana,Tippecanoe,2018,345,0,78,54,0,"Tippecanoe County, Indiana",18157
+305,Indiana,Vanderburgh,2018,365,0,143,63,199,"Vanderburgh County, Indiana",18163
+306,Indiana,Vigo,2018,365,0,115,64,202,"Vigo County, Indiana",18167
+307,Indiana,Wabash,2018,362,0,129,54,362,"Wabash County, Indiana",18169
+308,Indiana,Warrick,2018,365,0,126,51,365,"Warrick County, Indiana",18173
+309,Indiana,Whitley,2018,348,0,81,54,0,"Whitley County, Indiana",18183
+310,Iowa,Black Hawk,2018,365,0,82,61,0,"Black Hawk County, Iowa",19013
+311,Iowa,Bremer,2018,245,0,112,50,245,"Bremer County, Iowa",19017
+312,Iowa,Cerro Gordo,2018,115,0,46,31,0,"Cerro Gordo County, Iowa",19033
+313,Iowa,Clinton,2018,365,0,100,64,145,"Clinton County, Iowa",19045
+314,Iowa,Harrison,2018,245,0,101,58,245,"Harrison County, Iowa",19085
+315,Iowa,Johnson,2018,362,0,92,56,0,"Johnson County, Iowa",19103
+316,Iowa,Lee,2018,121,0,76,56,0,"Lee County, Iowa",19111
+317,Iowa,Linn,2018,365,0,129,64,150,"Linn County, Iowa",19113
+318,Iowa,Montgomery,2018,365,0,93,60,149,"Montgomery County, Iowa",19137
+319,Iowa,Muscatine,2018,365,0,95,62,0,"Muscatine County, Iowa",19139
+320,Iowa,Palo Alto,2018,365,0,115,62,160,"Palo Alto County, Iowa",19147
+321,Iowa,Polk,2018,365,0,112,60,225,"Polk County, Iowa",19153
+322,Iowa,Pottawattamie,2018,124,0,102,56,0,"Pottawattamie County, Iowa",19155
+323,Iowa,Scott,2018,365,0,108,69,66,"Scott County, Iowa",19163
+324,Iowa,Van Buren,2018,359,0,100,58,178,"Van Buren County, Iowa",19177
+325,Iowa,Woodbury,2018,122,0,92,53,0,"Woodbury County, Iowa",19193
+326,Kansas,Chase,2018,116,0,63,43,0,"Chase County, Kansas",20017
+327,Kansas,Ford,2018,354,0,129,41,0,"Ford County, Kansas",20057
+328,Kansas,Johnson,2018,363,0,91,59,274,"Johnson County, Kansas",20091
+329,Kansas,Leavenworth,2018,362,0,100,51,362,"Leavenworth County, Kansas",20103
+330,Kansas,Neosho,2018,359,0,87,54,303,"Neosho County, Kansas",20133
+331,Kansas,Sedgwick,2018,365,0,100,62,231,"Sedgwick County, Kansas",20173
+332,Kansas,Shawnee,2018,365,0,99,63,181,"Shawnee County, Kansas",20177
+333,Kansas,Sherman,2018,350,0,91,31,0,"Sherman County, Kansas",20181
+334,Kansas,Sumner,2018,365,0,90,56,312,"Sumner County, Kansas",20191
+335,Kansas,Trego,2018,365,0,130,60,324,"Trego County, Kansas",20195
+336,Kansas,Wyandotte,2018,365,0,172,68,180,"Wyandotte County, Kansas",20209
+337,Kentucky,Bell,2018,256,0,84,50,226,"Bell County, Kentucky",21013
+338,Kentucky,Boone,2018,243,0,151,51,243,"Boone County, Kentucky",21015
+339,Kentucky,Boyd,2018,365,0,119,55,159,"Boyd County, Kentucky",21019
+340,Kentucky,Bullitt,2018,233,0,150,58,233,"Bullitt County, Kentucky",21029
+341,Kentucky,Campbell,2018,352,0,101,56,160,"Campbell County, Kentucky",21037
+342,Kentucky,Carter,2018,281,0,80,49,217,"Carter County, Kentucky",21043
+343,Kentucky,Christian,2018,280,0,90,54,213,"Christian County, Kentucky",21047
+344,Kentucky,Daviess,2018,357,0,112,58,144,"Daviess County, Kentucky",21059
+345,Kentucky,Edmonson,2018,365,0,100,58,195,"Edmonson County, Kentucky",21061
+346,Kentucky,Fayette,2018,365,0,87,59,111,"Fayette County, Kentucky",21067
+347,Kentucky,Greenup,2018,360,0,119,46,238,"Greenup County, Kentucky",21089
+348,Kentucky,Hancock,2018,125,0,97,48,125,"Hancock County, Kentucky",21091
+349,Kentucky,Hardin,2018,361,0,100,61,121,"Hardin County, Kentucky",21093
+350,Kentucky,Henderson,2018,365,0,120,77,122,"Henderson County, Kentucky",21101
+351,Kentucky,Jefferson,2018,365,0,166,76,144,"Jefferson County, Kentucky",21111
+352,Kentucky,Jessamine,2018,356,0,90,50,237,"Jessamine County, Kentucky",21113
+353,Kentucky,Livingston,2018,257,0,97,54,240,"Livingston County, Kentucky",21139
+354,Kentucky,McCracken,2018,364,0,100,60,133,"McCracken County, Kentucky",21145
+355,Kentucky,Morgan,2018,364,0,80,48,364,"Morgan County, Kentucky",21175
+356,Kentucky,Oldham,2018,243,0,108,54,243,"Oldham County, Kentucky",21185
+357,Kentucky,Perry,2018,364,0,80,56,122,"Perry County, Kentucky",21193
+358,Kentucky,Pike,2018,359,0,84,52,146,"Pike County, Kentucky",21195
+359,Kentucky,Pulaski,2018,282,0,74,54,218,"Pulaski County, Kentucky",21199
+360,Kentucky,Simpson,2018,243,0,93,51,243,"Simpson County, Kentucky",21213
+361,Kentucky,Trigg,2018,348,0,87,48,348,"Trigg County, Kentucky",21221
+362,Kentucky,Warren,2018,352,0,95,58,103,"Warren County, Kentucky",21227
+363,Kentucky,Washington,2018,359,0,77,50,359,"Washington County, Kentucky",21229
+364,Louisiana,Ascension,2018,364,0,122,51,357,"Ascension County, Louisiana",22005
+365,Louisiana,Bossier,2018,365,0,96,61,288,"Bossier County, Louisiana",22015
+366,Louisiana,Caddo,2018,361,0,128,61,291,"Caddo County, Louisiana",22017
+367,Louisiana,Calcasieu,2018,365,0,108,67,111,"Calcasieu County, Louisiana",22019
+368,Louisiana,East Baton Rouge,2018,365,0,126,70,159,"East Baton Rouge County, Louisiana",22033
+369,Louisiana,Iberville,2018,365,0,153,64,324,"Iberville County, Louisiana",22047
+370,Louisiana,Jefferson,2018,365,0,101,64,168,"Jefferson County, Louisiana",22051
+371,Louisiana,Lafayette,2018,365,0,97,62,197,"Lafayette County, Louisiana",22055
+372,Louisiana,Lafourche,2018,362,0,90,51,259,"Lafourche County, Louisiana",22057
+373,Louisiana,Livingston,2018,365,0,100,61,195,"Livingston County, Louisiana",22063
+374,Louisiana,Orleans,2018,365,0,85,58,0,"Orleans County, Louisiana",22071
+375,Louisiana,Ouachita,2018,363,0,100,46,313,"Ouachita County, Louisiana",22073
+376,Louisiana,Pointe Coupee,2018,356,0,97,48,356,"Pointe Coupee County, Louisiana",22077
+377,Louisiana,Rapides,2018,119,0,91,56,0,"Rapides County, Louisiana",22079
+378,Louisiana,St. Bernard,2018,365,0,112,63,182,"St. Bernard County, Louisiana",22087
+379,Louisiana,St. Charles,2018,365,0,110,27,0,"St. Charles County, Louisiana",22089
+380,Louisiana,St. James,2018,365,0,93,44,364,"St. James County, Louisiana",22093
+381,Louisiana,St. John the Baptist,2018,359,0,108,48,359,"St. John the Baptist County, Louisiana",22095
+382,Louisiana,St. Martin,2018,352,0,97,50,352,"St. Martin County, Louisiana",22099
+383,Louisiana,St. Tammany,2018,365,0,101,58,268,"St. Tammany County, Louisiana",22103
+384,Louisiana,Tangipahoa,2018,125,0,78,53,0,"Tangipahoa County, Louisiana",22105
+385,Louisiana,Terrebonne,2018,119,0,70,49,0,"Terrebonne County, Louisiana",22109
+386,Louisiana,West Baton Rouge,2018,365,0,129,61,149,"West Baton Rouge County, Louisiana",22121
+387,Maine,Androscoggin,2018,361,0,84,47,190,"Androscoggin County, Maine",23001
+388,Maine,Aroostook,2018,365,0,195,55,219,"Aroostook County, Maine",23003
+389,Maine,Cumberland,2018,365,0,100,54,243,"Cumberland County, Maine",23005
+390,Maine,Hancock,2018,365,0,122,49,355,"Hancock County, Maine",23009
+391,Maine,Kennebec,2018,360,0,90,46,217,"Kennebec County, Maine",23011
+392,Maine,Knox,2018,219,0,112,45,219,"Knox County, Maine",23013
+393,Maine,Oxford,2018,354,0,97,53,176,"Oxford County, Maine",23017
+394,Maine,Penobscot,2018,365,0,97,49,197,"Penobscot County, Maine",23019
+395,Maine,Washington,2018,339,0,122,46,327,"Washington County, Maine",23029
+396,Maine,York,2018,227,0,119,49,227,"York County, Maine",23031
+397,Maryland,Allegany,2018,365,0,200,85,0,"Allegany County, Maryland",24001
+398,Maryland,Anne Arundel,2018,346,0,140,71,237,"Anne Arundel County, Maryland",24003
+399,Maryland,Baltimore,2018,365,0,115,65,228,"Baltimore County, Maryland",24510
+400,Maryland,Baltimore (City),2018,364,0,129,71,151,"Baltimore (City) County, Maryland",
+401,Maryland,Calvert,2018,243,0,147,58,243,"Calvert County, Maryland",24009
+402,Maryland,Carroll,2018,240,0,97,61,240,"Carroll County, Maryland",24013
+403,Maryland,Cecil,2018,358,0,129,61,160,"Cecil County, Maryland",24015
+404,Maryland,Charles,2018,235,0,133,54,235,"Charles County, Maryland",24017
+405,Maryland,Dorchester,2018,365,0,151,59,314,"Dorchester County, Maryland",24019
+406,Maryland,Frederick,2018,245,0,100,61,245,"Frederick County, Maryland",24021
+407,Maryland,Garrett,2018,362,0,97,52,313,"Garrett County, Maryland",24023
+408,Maryland,Harford,2018,358,0,150,64,226,"Harford County, Maryland",24025
+409,Maryland,Howard,2018,365,0,75,56,0,"Howard County, Maryland",24027
+410,Maryland,Kent,2018,361,0,119,61,224,"Kent County, Maryland",24029
+411,Maryland,Montgomery,2018,347,0,112,59,185,"Montgomery County, Maryland",24031
+412,Maryland,Prince George's,2018,365,0,166,68,288,"Prince George's County, Maryland",24033
+413,Maryland,Washington,2018,356,0,93,61,200,"Washington County, Maryland",24043
+414,Massachusetts,Barnstable,2018,360,0,133,46,355,"Barnstable County, Massachusetts",25001
+415,Massachusetts,Berkshire,2018,365,0,122,58,80,"Berkshire County, Massachusetts",25003
+416,Massachusetts,Bristol,2018,365,0,133,56,276,"Bristol County, Massachusetts",25005
+417,Massachusetts,Dukes,2018,360,0,108,49,352,"Dukes County, Massachusetts",25007
+418,Massachusetts,Essex,2018,365,0,115,55,260,"Essex County, Massachusetts",25009
+419,Massachusetts,Franklin,2018,365,0,100,52,280,"Franklin County, Massachusetts",25011
+420,Massachusetts,Hampden,2018,365,0,126,59,232,"Hampden County, Massachusetts",25013
+421,Massachusetts,Hampshire,2018,363,0,122,54,258,"Hampshire County, Massachusetts",25015
+422,Massachusetts,Middlesex,2018,365,0,97,49,269,"Middlesex County, Massachusetts",25017
+423,Massachusetts,Norfolk,2018,353,0,105,45,334,"Norfolk County, Massachusetts",25021
+424,Massachusetts,Plymouth,2018,364,0,126,51,279,"Plymouth County, Massachusetts",25023
+425,Massachusetts,Suffolk,2018,365,0,108,61,58,"Suffolk County, Massachusetts",25025
+426,Massachusetts,Worcester,2018,365,0,129,57,273,"Worcester County, Massachusetts",25027
+427,Michigan,Allegan,2018,286,0,150,64,229,"Allegan County, Michigan",26005
+428,Michigan,Bay,2018,356,0,83,50,0,"Bay County, Michigan",26017
+429,Michigan,Benzie,2018,250,0,154,54,250,"Benzie County, Michigan",26019
+430,Michigan,Berrien,2018,245,0,126,61,245,"Berrien County, Michigan",26021
+431,Michigan,Cass,2018,240,0,126,64,240,"Cass County, Michigan",26027
+432,Michigan,Chippewa,2018,271,0,70,54,111,"Chippewa County, Michigan",26033
+433,Michigan,Clinton,2018,244,0,143,64,244,"Clinton County, Michigan",26037
+434,Michigan,Genesee,2018,362,0,122,62,214,"Genesee County, Michigan",26049
+435,Michigan,Huron,2018,241,0,122,54,241,"Huron County, Michigan",26063
+436,Michigan,Ingham,2018,342,0,147,56,191,"Ingham County, Michigan",26065
+437,Michigan,Kalamazoo,2018,356,0,115,61,170,"Kalamazoo County, Michigan",26077
+438,Michigan,Kent,2018,365,0,115,61,229,"Kent County, Michigan",26081
+439,Michigan,Keweenaw,2018,114,0,61,28,0,"Keweenaw County, Michigan",26083
+440,Michigan,Lenawee,2018,344,0,115,66,221,"Lenawee County, Michigan",26091
+441,Michigan,Macomb,2018,299,0,143,68,249,"Macomb County, Michigan",26099
+442,Michigan,Manistee,2018,265,0,112,53,206,"Manistee County, Michigan",26101
+443,Michigan,Mason,2018,252,0,133,51,252,"Mason County, Michigan",26105
+444,Michigan,Missaukee,2018,365,0,97,51,339,"Missaukee County, Michigan",26113
+445,Michigan,Monroe,2018,365,0,59,11,0,"Monroe County, Michigan",26115
+446,Michigan,Muskegon,2018,240,0,174,67,240,"Muskegon County, Michigan",26121
+447,Michigan,Oakland,2018,278,0,151,67,220,"Oakland County, Michigan",26125
+448,Michigan,Ottawa,2018,365,0,115,59,235,"Ottawa County, Michigan",26139
+449,Michigan,Schoolcraft,2018,351,0,105,49,245,"Schoolcraft County, Michigan",26153
+450,Michigan,St. Clair,2018,365,0,151,79,145,"St. Clair County, Michigan",26147
+451,Michigan,Tuscola,2018,356,0,105,50,356,"Tuscola County, Michigan",26157
+452,Michigan,Washtenaw,2018,365,0,150,66,234,"Washtenaw County, Michigan",26161
+453,Michigan,Wayne,2018,365,0,133,80,82,"Wayne County, Michigan",26163
+454,Michigan,Wexford,2018,356,0,122,49,356,"Wexford County, Michigan",26165
+455,Minnesota,Anoka,2018,365,0,115,63,216,"Anoka County, Minnesota",27003
+456,Minnesota,Becker,2018,358,0,100,51,203,"Becker County, Minnesota",27005
+457,Minnesota,Beltrami,2018,352,0,106,41,0,"Beltrami County, Minnesota",27007
+458,Minnesota,Carlton,2018,354,0,93,45,159,"Carlton County, Minnesota",27017
+459,Minnesota,Cass,2018,320,0,100,47,0,"Cass County, Minnesota",27021
+460,Minnesota,Cook,2018,353,0,65,31,0,"Cook County, Minnesota",27031
+461,Minnesota,Crow Wing,2018,348,0,107,52,167,"Crow Wing County, Minnesota",27035
+462,Minnesota,Dakota,2018,365,0,91,54,0,"Dakota County, Minnesota",27037
+463,Minnesota,Goodhue,2018,231,0,133,51,231,"Goodhue County, Minnesota",27049
+464,Minnesota,Hennepin,2018,365,0,104,64,60,"Hennepin County, Minnesota",27053
+465,Minnesota,Lake,2018,365,0,95,54,159,"Lake County, Minnesota",27075
+466,Minnesota,Lyon,2018,365,0,84,50,166,"Lyon County, Minnesota",27083
+467,Minnesota,Mille Lacs,2018,126,0,74,49,126,"Mille Lacs County, Minnesota",27095
+468,Minnesota,Olmsted,2018,361,0,98,57,148,"Olmsted County, Minnesota",27109
+469,Minnesota,Ramsey,2018,365,0,111,60,0,"Ramsey County, Minnesota",27123
+470,Minnesota,Saint Louis,2018,365,0,109,57,281,"Saint Louis County, Minnesota",27137
+471,Minnesota,Scott,2018,357,0,112,51,291,"Scott County, Minnesota",27139
+472,Minnesota,Stearns,2018,365,0,101,56,186,"Stearns County, Minnesota",27145
+473,Minnesota,Washington,2018,365,0,100,65,81,"Washington County, Minnesota",27163
+474,Minnesota,Winona,2018,113,0,77,44,0,"Winona County, Minnesota",27169
+475,Minnesota,Wright,2018,365,0,122,60,203,"Wright County, Minnesota",27171
+476,Mississippi,Bolivar,2018,312,0,129,67,163,"Bolivar County, Mississippi",28011
+477,Mississippi,DeSoto,2018,365,0,159,60,127,"DeSoto County, Mississippi",28033
+478,Mississippi,Forrest,2018,359,0,119,57,0,"Forrest County, Mississippi",28035
+479,Mississippi,Grenada,2018,105,0,80,48,0,"Grenada County, Mississippi",28043
+480,Mississippi,Hancock,2018,363,0,102,55,168,"Hancock County, Mississippi",28045
+481,Mississippi,Harrison,2018,364,0,115,60,171,"Harrison County, Mississippi",28047
+482,Mississippi,Hinds,2018,365,0,112,67,146,"Hinds County, Mississippi",28049
+483,Mississippi,Jackson,2018,363,0,105,58,166,"Jackson County, Mississippi",28059
+484,Mississippi,Lauderdale,2018,237,0,87,54,237,"Lauderdale County, Mississippi",28075
+485,Mississippi,Lee,2018,243,0,80,49,243,"Lee County, Mississippi",28081
+486,Mississippi,Yalobusha,2018,325,0,71,44,325,"Yalobusha County, Mississippi",28161
+487,Missouri,Andrew,2018,245,0,112,74,245,"Andrew County, Missouri",29003
+488,Missouri,Boone,2018,245,0,105,54,245,"Boone County, Missouri",29019
+489,Missouri,Buchanan,2018,363,0,74,55,0,"Buchanan County, Missouri",29021
+490,Missouri,Callaway,2018,245,0,90,58,245,"Callaway County, Missouri",29027
+491,Missouri,Cass,2018,364,0,97,58,211,"Cass County, Missouri",29037
+492,Missouri,Cedar,2018,363,0,84,58,180,"Cedar County, Missouri",29039
+493,Missouri,Clay,2018,363,0,147,67,220,"Clay County, Missouri",29047
+494,Missouri,Clinton,2018,245,0,143,71,245,"Clinton County, Missouri",29049
+495,Missouri,Franklin,2018,365,0,76,19,0,"Franklin County, Missouri",29071
+496,Missouri,Greene,2018,365,0,93,56,198,"Greene County, Missouri",29077
+497,Missouri,Iron,2018,365,0,105,46,0,"Iron County, Missouri",29093
+498,Missouri,Jackson,2018,365,0,74,54,0,"Jackson County, Missouri",29095
+499,Missouri,Jasper,2018,365,0,95,54,226,"Jasper County, Missouri",29097
+500,Missouri,Jefferson,2018,365,0,119,61,197,"Jefferson County, Missouri",29099
+501,Missouri,Lincoln,2018,245,0,143,67,245,"Lincoln County, Missouri",29113
+502,Missouri,Monroe,2018,365,0,105,49,365,"Monroe County, Missouri",29137
+503,Missouri,New Madrid,2018,365,0,200,136,0,"New Madrid County, Missouri",29143
+504,Missouri,Perry,2018,245,0,126,61,245,"Perry County, Missouri",29157
+505,Missouri,Saint Charles,2018,365,0,147,61,242,"Saint Charles County, Missouri",29183
+506,Missouri,Saint Louis,2018,365,0,119,71,175,"Saint Louis County, Missouri",29510
+507,Missouri,Sainte Genevieve,2018,245,0,97,58,245,"Sainte Genevieve County, Missouri",29186
+508,Missouri,St. Louis City,2018,365,0,182,71,137,"St. Louis City County, Missouri",29510
+509,Missouri,Stoddard,2018,117,0,67,46,0,"Stoddard County, Missouri",29207
+510,Missouri,Taney,2018,119,0,75,47,0,"Taney County, Missouri",29213
+511,Montana,Cascade,2018,360,0,162,49,0,"Cascade County, Montana",30013
+512,Montana,Fergus,2018,365,0,158,51,327,"Fergus County, Montana",30027
+513,Montana,Flathead,2018,365,0,182,66,186,"Flathead County, Montana",30029
+514,Montana,Gallatin,2018,365,0,153,52,0,"Gallatin County, Montana",30031
+515,Montana,Lake,2018,118,0,117,36,0,"Lake County, Montana",30047
+516,Montana,Lewis and Clark,2018,365,0,164,66,253,"Lewis and Clark County, Montana",30049
+517,Montana,Lincoln,2018,365,0,177,77,0,"Lincoln County, Montana",30053
+518,Montana,Missoula,2018,365,0,153,78,102,"Missoula County, Montana",30063
+519,Montana,Phillips,2018,360,0,158,50,311,"Phillips County, Montana",30071
+520,Montana,Powder River,2018,362,0,117,65,265,"Powder River County, Montana",30075
+521,Montana,Powell,2018,113,0,92,34,0,"Powell County, Montana",30077
+522,Montana,Ravalli,2018,351,0,89,57,0,"Ravalli County, Montana",30081
+523,Montana,Richland,2018,364,0,139,58,322,"Richland County, Montana",30083
+524,Montana,Roosevelt,2018,105,0,134,41,0,"Roosevelt County, Montana",30085
+525,Montana,Rosebud,2018,361,0,133,49,301,"Rosebud County, Montana",30087
+526,Montana,Sanders,2018,365,0,148,70,0,"Sanders County, Montana",30089
+527,Montana,Sheridan,2018,112,0,118,40,0,"Sheridan County, Montana",30091
+528,Montana,Silver Bow,2018,363,0,120,56,0,"Silver Bow County, Montana",30093
+529,Montana,Yellowstone,2018,364,0,154,54,0,"Yellowstone County, Montana",30111
+530,Nebraska,Cass,2018,337,0,57,31,0,"Cass County, Nebraska",31025
+531,Nebraska,Douglas,2018,365,0,108,64,191,"Douglas County, Nebraska",31055
+532,Nebraska,Hall,2018,111,0,68,45,0,"Hall County, Nebraska",31079
+533,Nebraska,Knox,2018,357,0,93,48,357,"Knox County, Nebraska",31107
+534,Nebraska,Lancaster,2018,365,0,78,50,229,"Lancaster County, Nebraska",31109
+535,Nebraska,Sarpy,2018,349,0,93,56,0,"Sarpy County, Nebraska",31153
+536,Nebraska,Scotts Bluff,2018,116,0,71,45,0,"Scotts Bluff County, Nebraska",31157
+537,Nebraska,Thomas,2018,114,0,76,35,0,"Thomas County, Nebraska",31171
+538,Nebraska,Washington,2018,116,0,94,52,0,"Washington County, Nebraska",31177
+539,Nevada,Carson City,2018,365,0,160,64,311,"Carson City County, Nevada",32510
+540,Nevada,Churchill,2018,332,0,129,67,332,"Churchill County, Nevada",32001
+541,Nevada,Clark,2018,365,0,154,108,226,"Clark County, Nevada",32003
+542,Nevada,Douglas,2018,362,0,205,55,0,"Douglas County, Nevada",32005
+543,Nevada,Elko,2018,346,0,126,59,77,"Elko County, Nevada",32007
+544,Nevada,Lyon,2018,362,0,133,58,362,"Lyon County, Nevada",32019
+545,Nevada,Nye,2018,365,0,99,32,0,"Nye County, Nevada",32023
+546,Nevada,Washoe,2018,365,0,146,80,281,"Washoe County, Nevada",32031
+547,Nevada,White Pine,2018,355,0,108,71,349,"White Pine County, Nevada",32033
+548,New Hampshire,Belknap,2018,283,0,80,47,206,"Belknap County, New Hampshire",33001
+549,New Hampshire,Cheshire,2018,365,0,84,49,272,"Cheshire County, New Hampshire",33005
+550,New Hampshire,Coos,2018,271,0,115,64,227,"Coos County, New Hampshire",33007
+551,New Hampshire,Grafton,2018,365,0,90,48,259,"Grafton County, New Hampshire",33009
+552,New Hampshire,Hillsborough,2018,365,0,97,49,350,"Hillsborough County, New Hampshire",33011
+553,New Hampshire,Merrimack,2018,365,0,87,44,213,"Merrimack County, New Hampshire",33013
+554,New Hampshire,Rockingham,2018,365,0,115,50,318,"Rockingham County, New Hampshire",33015
+555,New Jersey,Atlantic,2018,365,0,112,51,250,"Atlantic County, New Jersey",34001
+556,New Jersey,Bergen,2018,365,0,164,76,96,"Bergen County, New Jersey",34003
+557,New Jersey,Camden,2018,365,0,140,68,161,"Camden County, New Jersey",34007
+558,New Jersey,Cumberland,2018,365,0,93,56,173,"Cumberland County, New Jersey",34011
+559,New Jersey,Essex,2018,364,0,177,64,164,"Essex County, New Jersey",34013
+560,New Jersey,Gloucester,2018,276,0,147,67,232,"Gloucester County, New Jersey",34015
+561,New Jersey,Hudson,2018,365,0,174,67,126,"Hudson County, New Jersey",34017
+562,New Jersey,Hunterdon,2018,352,0,179,63,230,"Hunterdon County, New Jersey",34019
+563,New Jersey,Mercer,2018,365,0,187,64,234,"Mercer County, New Jersey",34021
+564,New Jersey,Middlesex,2018,365,0,133,64,234,"Middlesex County, New Jersey",34023
+565,New Jersey,Monmouth,2018,245,0,100,51,245,"Monmouth County, New Jersey",34025
+566,New Jersey,Morris,2018,365,0,136,54,331,"Morris County, New Jersey",34027
+567,New Jersey,Ocean,2018,349,0,143,61,220,"Ocean County, New Jersey",34029
+568,New Jersey,Passaic,2018,277,0,150,61,223,"Passaic County, New Jersey",34031
+569,New Jersey,Union,2018,365,0,95,60,0,"Union County, New Jersey",34039
+570,New Jersey,Warren,2018,357,0,112,60,158,"Warren County, New Jersey",34041
+571,New Mexico,Bernalillo,2018,365,0,165,90,257,"Bernalillo County, New Mexico",35001
+572,New Mexico,Catron,2018,117,0,37,21,0,"Catron County, New Mexico",35003
+573,New Mexico,Chaves,2018,118,0,57,40,0,"Chaves County, New Mexico",35005
+574,New Mexico,Dona Ana,2018,365,0,187,100,258,"Dona Ana County, New Mexico",35013
+575,New Mexico,Eddy,2018,365,0,185,90,354,"Eddy County, New Mexico",35015
+576,New Mexico,Lea,2018,365,0,143,80,302,"Lea County, New Mexico",35025
+577,New Mexico,Lincoln,2018,116,0,52,23,0,"Lincoln County, New Mexico",35027
+578,New Mexico,Los Alamos,2018,120,0,33,23,0,"Los Alamos County, New Mexico",35028
+579,New Mexico,Luna,2018,357,0,137,32,0,"Luna County, New Mexico",35029
+580,New Mexico,Rio Arriba,2018,362,0,126,77,360,"Rio Arriba County, New Mexico",35039
+581,New Mexico,San Juan,2018,365,0,129,93,363,"San Juan County, New Mexico",35045
+582,New Mexico,Sandoval,2018,354,0,119,84,350,"Sandoval County, New Mexico",35043
+583,New Mexico,Santa Fe,2018,365,0,122,67,353,"Santa Fe County, New Mexico",35049
+584,New Mexico,Socorro,2018,112,0,56,30,0,"Socorro County, New Mexico",35053
+585,New Mexico,Taos,2018,365,0,66,41,0,"Taos County, New Mexico",35055
+586,New Mexico,Valencia,2018,359,0,108,80,359,"Valencia County, New Mexico",35061
+587,New York,Albany,2018,365,0,112,59,216,"Albany County, New York",36001
+588,New York,Bronx,2018,365,0,150,64,169,"Bronx County, New York",36005
+589,New York,Chautauqua,2018,362,0,126,58,336,"Chautauqua County, New York",36013
+590,New York,Dutchess,2018,364,0,156,46,348,"Dutchess County, New York",36027
+591,New York,Erie,2018,365,0,112,65,204,"Erie County, New York",36029
+592,New York,Essex,2018,365,0,108,54,363,"Essex County, New York",36031
+593,New York,Franklin,2018,341,0,24,0,0,"Franklin County, New York",36033
+594,New York,Hamilton,2018,357,0,97,45,352,"Hamilton County, New York",36041
+595,New York,Herkimer,2018,248,0,93,48,245,"Herkimer County, New York",36043
+596,New York,Jefferson,2018,329,0,105,47,329,"Jefferson County, New York",36045
+597,New York,Kings,2018,365,0,80,49,0,"Kings County, New York",36047
+598,New York,Monroe,2018,365,0,108,58,205,"Monroe County, New York",36055
+599,New York,Nassau,2018,365,0,92,45,0,"Nassau County, New York",36059
+600,New York,New York,2018,365,0,151,66,142,"New York County, New York",36061
+601,New York,Niagara,2018,320,0,101,50,320,"Niagara County, New York",36063
+602,New York,Oneida,2018,364,0,70,43,0,"Oneida County, New York",36065
+603,New York,Onondaga,2018,365,0,115,57,310,"Onondaga County, New York",36067
+604,New York,Orange,2018,365,0,147,53,261,"Orange County, New York",36071
+605,New York,Oswego,2018,350,0,112,47,350,"Oswego County, New York",36075
+606,New York,Putnam,2018,352,0,151,45,337,"Putnam County, New York",36079
+607,New York,Queens,2018,365,0,140,60,170,"Queens County, New York",36081
+608,New York,Richmond,2018,363,0,136,61,132,"Richmond County, New York",36085
+609,New York,Rockland,2018,365,0,210,54,302,"Rockland County, New York",36087
+610,New York,Saratoga,2018,361,0,119,45,361,"Saratoga County, New York",36091
+611,New York,Seneca,2018,364,0,17,0,0,"Seneca County, New York",36099
+612,New York,St. Lawrence,2018,359,0,110,81,0,"St. Lawrence County, New York",36089
+613,New York,Steuben,2018,363,0,87,50,295,"Steuben County, New York",36101
+614,New York,Suffolk,2018,365,0,172,61,287,"Suffolk County, New York",36103
+615,New York,Tompkins,2018,364,0,101,49,353,"Tompkins County, New York",36109
+616,New York,Wayne,2018,239,0,115,58,239,"Wayne County, New York",36117
+617,New York,Westchester,2018,365,0,169,58,289,"Westchester County, New York",36119
+618,North Carolina,Alexander,2018,233,0,100,58,233,"Alexander County, North Carolina",37003
+619,North Carolina,Avery,2018,357,0,87,50,346,"Avery County, North Carolina",37011
+620,North Carolina,Beaufort,2018,299,0,30,10,0,"Beaufort County, North Carolina",37013
+621,North Carolina,Brunswick,2018,329,0,116,40,0,"Brunswick County, North Carolina",37019
+622,North Carolina,Buncombe,2018,365,0,93,53,193,"Buncombe County, North Carolina",37021
+623,North Carolina,Caldwell,2018,244,0,93,58,244,"Caldwell County, North Carolina",37027
+624,North Carolina,Carteret,2018,222,0,77,49,222,"Carteret County, North Carolina",37031
+625,North Carolina,Caswell,2018,232,0,97,58,232,"Caswell County, North Carolina",37033
+626,North Carolina,Catawba,2018,352,0,77,55,0,"Catawba County, North Carolina",37035
+627,North Carolina,Cumberland,2018,349,0,100,57,194,"Cumberland County, North Carolina",37051
+628,North Carolina,Davidson,2018,353,0,76,56,0,"Davidson County, North Carolina",37057
+629,North Carolina,Durham,2018,358,0,100,58,160,"Durham County, North Carolina",37063
+630,North Carolina,Edgecombe,2018,354,0,80,50,187,"Edgecombe County, North Carolina",37065
+631,North Carolina,Forsyth,2018,365,0,101,67,194,"Forsyth County, North Carolina",37067
+632,North Carolina,Graham,2018,195,0,93,64,195,"Graham County, North Carolina",37075
+633,North Carolina,Granville,2018,233,0,93,61,233,"Granville County, North Carolina",37077
+634,North Carolina,Guilford,2018,355,0,105,62,211,"Guilford County, North Carolina",37081
+635,North Carolina,Haywood,2018,365,0,199,90,197,"Haywood County, North Carolina",37087
+636,North Carolina,Hyde,2018,109,0,54,32,0,"Hyde County, North Carolina",37095
+637,North Carolina,Jackson,2018,237,0,108,67,163,"Jackson County, North Carolina",37099
+638,North Carolina,Johnston,2018,354,0,90,55,161,"Johnston County, North Carolina",37101
+639,North Carolina,Lee,2018,210,0,83,59,127,"Lee County, North Carolina",37105
+640,North Carolina,Lenoir,2018,278,0,108,51,222,"Lenoir County, North Carolina",37107
+641,North Carolina,Lincoln,2018,225,0,90,58,225,"Lincoln County, North Carolina",37109
+642,North Carolina,Macon,2018,356,0,93,45,356,"Macon County, North Carolina",37113
+643,North Carolina,Martin,2018,289,0,80,50,224,"Martin County, North Carolina",37117
+644,North Carolina,Mecklenburg,2018,360,0,108,71,200,"Mecklenburg County, North Carolina",37119
+645,North Carolina,Mitchell,2018,355,0,78,45,0,"Mitchell County, North Carolina",37121
+646,North Carolina,Montgomery,2018,363,0,97,50,258,"Montgomery County, North Carolina",37123
+647,North Carolina,New Hanover,2018,329,0,77,48,201,"New Hanover County, North Carolina",37129
+648,North Carolina,Person,2018,356,0,97,50,232,"Person County, North Carolina",37145
+649,North Carolina,Pitt,2018,345,0,87,51,189,"Pitt County, North Carolina",37147
+650,North Carolina,Rockingham,2018,290,0,90,54,233,"Rockingham County, North Carolina",37157
+651,North Carolina,Rowan,2018,336,0,74,48,336,"Rowan County, North Carolina",37159
+652,North Carolina,Swain,2018,363,0,80,54,177,"Swain County, North Carolina",37173
+653,North Carolina,Union,2018,189,0,122,67,189,"Union County, North Carolina",37179
+654,North Carolina,Wake,2018,361,0,90,61,150,"Wake County, North Carolina",37183
+655,North Carolina,Yancey,2018,230,0,84,64,230,"Yancey County, North Carolina",37199
+656,North Dakota,Billings,2018,361,0,90,54,304,"Billings County, North Dakota",38007
+657,North Dakota,Burke,2018,361,0,108,51,327,"Burke County, North Dakota",38013
+658,North Dakota,Burleigh,2018,365,0,153,56,184,"Burleigh County, North Dakota",38015
+659,North Dakota,Cass,2018,360,0,121,53,239,"Cass County, North Dakota",38017
+660,North Dakota,Dunn,2018,349,0,90,51,285,"Dunn County, North Dakota",38025
+661,North Dakota,McKenzie,2018,355,0,92,54,300,"McKenzie County, North Dakota",38053
+662,North Dakota,Mercer,2018,365,0,127,58,292,"Mercer County, North Dakota",38057
+663,North Dakota,Oliver,2018,360,0,122,58,300,"Oliver County, North Dakota",38065
+664,North Dakota,Ward,2018,360,0,112,49,224,"Ward County, North Dakota",38101
+665,North Dakota,Williams,2018,365,0,119,61,207,"Williams County, North Dakota",38105
+666,Ohio,Adams,2018,359,0,66,42,0,"Adams County, Ohio",39001
+667,Ohio,Allen,2018,365,0,119,59,215,"Allen County, Ohio",39003
+668,Ohio,Ashtabula,2018,365,0,129,50,243,"Ashtabula County, Ohio",39007
+669,Ohio,Athens,2018,94,0,57,46,0,"Athens County, Ohio",39009
+670,Ohio,Belmont,2018,365,0,69,36,0,"Belmont County, Ohio",39013
+671,Ohio,Butler,2018,365,0,140,69,284,"Butler County, Ohio",39017
+672,Ohio,Clark,2018,365,0,140,67,160,"Clark County, Ohio",39023
+673,Ohio,Clermont,2018,356,0,101,61,222,"Clermont County, Ohio",39025
+674,Ohio,Clinton,2018,245,0,112,64,245,"Clinton County, Ohio",39027
+675,Ohio,Columbiana,2018,303,0,52,12,0,"Columbiana County, Ohio",39029
+676,Ohio,Cuyahoga,2018,365,0,133,75,177,"Cuyahoga County, Ohio",39035
+677,Ohio,Delaware,2018,244,0,100,54,244,"Delaware County, Ohio",39041
+678,Ohio,Fayette,2018,364,0,80,49,364,"Fayette County, Ohio",39047
+679,Ohio,Franklin,2018,365,0,122,64,182,"Franklin County, Ohio",39049
+680,Ohio,Gallia,2018,365,0,124,29,0,"Gallia County, Ohio",39053
+681,Ohio,Geauga,2018,245,0,129,77,245,"Geauga County, Ohio",39055
+682,Ohio,Greene,2018,363,0,122,61,175,"Greene County, Ohio",39057
+683,Ohio,Hamilton,2018,365,0,159,74,126,"Hamilton County, Ohio",39061
+684,Ohio,Harrison,2018,145,0,60,30,0,"Harrison County, Ohio",39067
+685,Ohio,Jefferson,2018,365,0,108,66,93,"Jefferson County, Ohio",39081
+686,Ohio,Knox,2018,245,0,115,64,245,"Knox County, Ohio",39083
+687,Ohio,Lake,2018,365,0,138,67,208,"Lake County, Ohio",39085
+688,Ohio,Lawrence,2018,365,0,119,54,180,"Lawrence County, Ohio",39087
+689,Ohio,Licking,2018,245,0,100,54,245,"Licking County, Ohio",39089
+690,Ohio,Lorain,2018,365,0,101,57,171,"Lorain County, Ohio",39093
+691,Ohio,Lucas,2018,365,0,151,64,195,"Lucas County, Ohio",39095
+692,Ohio,Madison,2018,244,0,101,58,244,"Madison County, Ohio",39097
+693,Ohio,Mahoning,2018,365,0,90,55,143,"Mahoning County, Ohio",39099
+694,Ohio,Medina,2018,365,0,100,60,185,"Medina County, Ohio",39103
+695,Ohio,Miami,2018,245,0,140,61,245,"Miami County, Ohio",39109
+696,Ohio,Montgomery,2018,363,0,129,64,181,"Montgomery County, Ohio",39113
+697,Ohio,Morgan,2018,293,0,52,9,0,"Morgan County, Ohio",39115
+698,Ohio,Noble,2018,343,0,97,49,317,"Noble County, Ohio",39121
+699,Ohio,Portage,2018,279,0,100,60,225,"Portage County, Ohio",39133
+700,Ohio,Preble,2018,365,0,107,61,180,"Preble County, Ohio",39135
+701,Ohio,Scioto,2018,365,0,82,35,0,"Scioto County, Ohio",39145
+702,Ohio,Stark,2018,365,0,108,69,167,"Stark County, Ohio",39151
+703,Ohio,Summit,2018,365,0,105,63,163,"Summit County, Ohio",39153
+704,Ohio,Trumbull,2018,353,0,108,64,226,"Trumbull County, Ohio",39155
+705,Ohio,Warren,2018,358,0,136,67,195,"Warren County, Ohio",39165
+706,Ohio,Washington,2018,245,0,105,54,245,"Washington County, Ohio",39167
+707,Ohio,Wood,2018,245,0,115,61,245,"Wood County, Ohio",39173
+708,Oklahoma,Adair,2018,365,0,145,58,246,"Adair County, Oklahoma",40001
+709,Oklahoma,Bryan,2018,301,0,119,58,301,"Bryan County, Oklahoma",40013
+710,Oklahoma,Canadian,2018,360,0,150,64,360,"Canadian County, Oklahoma",40017
+711,Oklahoma,Carter,2018,356,0,128,55,0,"Carter County, Oklahoma",40019
+712,Oklahoma,Choctaw,2018,272,0,93,49,272,"Choctaw County, Oklahoma",40023
+713,Oklahoma,Cleveland,2018,365,0,121,71,190,"Cleveland County, Oklahoma",40027
+714,Oklahoma,Comanche,2018,365,0,122,67,298,"Comanche County, Oklahoma",40031
+715,Oklahoma,Creek,2018,344,0,115,51,344,"Creek County, Oklahoma",40037
+716,Oklahoma,Custer,2018,364,0,104,31,0,"Custer County, Oklahoma",40039
+717,Oklahoma,Dewey,2018,362,0,115,74,251,"Dewey County, Oklahoma",40043
+718,Oklahoma,Garfield,2018,357,0,70,19,0,"Garfield County, Oklahoma",40047
+719,Oklahoma,Jefferson,2018,267,0,151,71,267,"Jefferson County, Oklahoma",40067
+720,Oklahoma,Kay,2018,365,0,114,60,123,"Kay County, Oklahoma",40071
+721,Oklahoma,Le Flore,2018,34,0,58,40,0,"Le Flore County, Oklahoma",40079
+722,Oklahoma,Love,2018,272,0,129,74,272,"Love County, Oklahoma",40085
+723,Oklahoma,Mayes,2018,365,0,140,49,261,"Mayes County, Oklahoma",40097
+724,Oklahoma,McClain,2018,321,0,119,61,321,"McClain County, Oklahoma",40087
+725,Oklahoma,Muskogee,2018,365,0,196,47,0,"Muskogee County, Oklahoma",40101
+726,Oklahoma,Nowata,2018,354,0,97,63,194,"Nowata County, Oklahoma",40105
+727,Oklahoma,Oklahoma,2018,365,0,147,74,189,"Oklahoma County, Oklahoma",40109
+728,Oklahoma,Osage,2018,359,0,143,64,359,"Osage County, Oklahoma",40113
+729,Oklahoma,Ottawa,2018,365,0,107,62,139,"Ottawa County, Oklahoma",40115
+730,Oklahoma,Pittsburg,2018,363,0,108,66,218,"Pittsburg County, Oklahoma",40121
+731,Oklahoma,Sequoyah,2018,363,0,90,54,209,"Sequoyah County, Oklahoma",40135
+732,Oklahoma,Tulsa,2018,365,0,192,77,141,"Tulsa County, Oklahoma",40143
+733,Oklahoma,Washington,2018,8,0,60,60,2,"Washington County, Oklahoma",40147
+734,Oregon,Baker,2018,347,0,167,52,0,"Baker County, Oregon",41001
+735,Oregon,Benton,2018,362,0,119,43,0,"Benton County, Oregon",41003
+736,Oregon,Clackamas,2018,212,0,165,67,111,"Clackamas County, Oregon",41005
+737,Oregon,Columbia,2018,363,0,136,41,132,"Columbia County, Oregon",41009
+738,Oregon,Crook,2018,363,0,164,66,0,"Crook County, Oregon",41013
+739,Oregon,Deschutes,2018,363,0,189,62,0,"Deschutes County, Oregon",41017
+740,Oregon,Douglas,2018,336,0,135,56,0,"Douglas County, Oregon",41019
+741,Oregon,Grant,2018,362,0,169,62,0,"Grant County, Oregon",41023
+742,Oregon,Harney,2018,362,0,168,67,0,"Harney County, Oregon",41025
+743,Oregon,Jackson,2018,364,0,233,121,85,"Jackson County, Oregon",41029
+744,Oregon,Jefferson,2018,184,0,155,69,0,"Jefferson County, Oregon",41031
+745,Oregon,Josephine,2018,363,0,192,112,0,"Josephine County, Oregon",41033
+746,Oregon,Klamath,2018,360,0,225,114,0,"Klamath County, Oregon",41035
+747,Oregon,Lake,2018,358,0,180,80,0,"Lake County, Oregon",41037
+748,Oregon,Lane,2018,365,0,154,71,101,"Lane County, Oregon",41039
+749,Oregon,Linn,2018,365,0,122,62,0,"Linn County, Oregon",41043
+750,Oregon,Marion,2018,361,0,125,58,139,"Marion County, Oregon",41047
+751,Oregon,Multnomah,2018,365,0,152,58,219,"Multnomah County, Oregon",41051
+752,Oregon,Umatilla,2018,333,0,229,59,94,"Umatilla County, Oregon",41059
+753,Oregon,Union,2018,362,0,181,54,0,"Union County, Oregon",41061
+754,Oregon,Wallowa,2018,329,0,118,55,0,"Wallowa County, Oregon",41063
+755,Oregon,Wasco,2018,334,0,154,53,76,"Wasco County, Oregon",41065
+756,Oregon,Washington,2018,365,0,150,59,139,"Washington County, Oregon",41067
+757,Pennsylvania,Adams,2018,365,0,105,62,258,"Adams County, Pennsylvania",42001
+758,Pennsylvania,Allegheny,2018,365,0,154,88,88,"Allegheny County, Pennsylvania",42003
+759,Pennsylvania,Armstrong,2018,360,0,143,58,227,"Armstrong County, Pennsylvania",42005
+760,Pennsylvania,Beaver,2018,365,0,136,71,207,"Beaver County, Pennsylvania",42007
+761,Pennsylvania,Berks,2018,365,0,117,67,239,"Berks County, Pennsylvania",42011
+762,Pennsylvania,Blair,2018,362,0,132,59,239,"Blair County, Pennsylvania",42013
+763,Pennsylvania,Bradford,2018,356,0,97,53,246,"Bradford County, Pennsylvania",42015
+764,Pennsylvania,Bucks,2018,333,0,164,64,333,"Bucks County, Pennsylvania",42017
+765,Pennsylvania,Cambria,2018,363,0,93,55,189,"Cambria County, Pennsylvania",42021
+766,Pennsylvania,Centre,2018,365,0,122,61,225,"Centre County, Pennsylvania",42027
+767,Pennsylvania,Chester,2018,359,0,112,63,193,"Chester County, Pennsylvania",42029
+768,Pennsylvania,Clearfield,2018,343,0,101,46,343,"Clearfield County, Pennsylvania",42033
+769,Pennsylvania,Cumberland,2018,365,0,97,60,0,"Cumberland County, Pennsylvania",42041
+770,Pennsylvania,Dauphin,2018,365,0,108,67,217,"Dauphin County, Pennsylvania",42043
+771,Pennsylvania,Delaware,2018,365,0,143,73,86,"Delaware County, Pennsylvania",42045
+772,Pennsylvania,Elk,2018,351,0,97,48,351,"Elk County, Pennsylvania",42047
+773,Pennsylvania,Erie,2018,365,0,84,59,198,"Erie County, Pennsylvania",42049
+774,Pennsylvania,Fayette,2018,228,0,105,54,141,"Fayette County, Pennsylvania",42051
+775,Pennsylvania,Franklin,2018,353,0,74,44,353,"Franklin County, Pennsylvania",42055
+776,Pennsylvania,Greene,2018,360,0,100,51,273,"Greene County, Pennsylvania",42059
+777,Pennsylvania,Indiana,2018,356,0,105,50,349,"Indiana County, Pennsylvania",42063
+778,Pennsylvania,Lackawanna,2018,365,0,95,60,200,"Lackawanna County, Pennsylvania",42069
+779,Pennsylvania,Lancaster,2018,365,0,126,74,183,"Lancaster County, Pennsylvania",42071
+780,Pennsylvania,Lawrence,2018,358,0,97,50,358,"Lawrence County, Pennsylvania",42073
+781,Pennsylvania,Lebanon,2018,365,0,101,64,187,"Lebanon County, Pennsylvania",42075
+782,Pennsylvania,Lehigh,2018,365,0,126,67,232,"Lehigh County, Pennsylvania",42077
+783,Pennsylvania,Luzerne,2018,365,0,101,48,354,"Luzerne County, Pennsylvania",42079
+784,Pennsylvania,Lycoming,2018,345,0,97,44,344,"Lycoming County, Pennsylvania",42081
+785,Pennsylvania,Mercer,2018,365,0,115,63,279,"Mercer County, Pennsylvania",42085
+786,Pennsylvania,Monroe,2018,355,0,108,51,331,"Monroe County, Pennsylvania",42089
+787,Pennsylvania,Montgomery,2018,352,0,129,63,216,"Montgomery County, Pennsylvania",42091
+788,Pennsylvania,Northampton,2018,365,0,136,74,206,"Northampton County, Pennsylvania",42095
+789,Pennsylvania,Philadelphia,2018,365,0,156,71,139,"Philadelphia County, Pennsylvania",42101
+790,Pennsylvania,Somerset,2018,357,0,90,47,357,"Somerset County, Pennsylvania",42111
+791,Pennsylvania,Susquehanna,2018,88,0,62,47,0,"Susquehanna County, Pennsylvania",42115
+792,Pennsylvania,Tioga,2018,347,0,97,52,286,"Tioga County, Pennsylvania",42117
+793,Pennsylvania,Warren,2018,365,0,146,23,0,"Warren County, Pennsylvania",42123
+794,Pennsylvania,Washington,2018,365,0,105,64,184,"Washington County, Pennsylvania",42125
+795,Pennsylvania,Westmoreland,2018,364,0,122,51,263,"Westmoreland County, Pennsylvania",42129
+796,Pennsylvania,York,2018,365,0,101,61,214,"York County, Pennsylvania",42133
+797,Puerto Rico,Adjuntas,2018,27,0,32,23,0,"Adjuntas County, Puerto Rico",72001
+798,Puerto Rico,Bayamon,2018,305,0,166,77,0,"Bayamon County, Puerto Rico",72021
+799,Puerto Rico,Caguas,2018,201,0,54,19,0,"Caguas County, Puerto Rico",72025
+800,Puerto Rico,Catano,2018,349,0,116,57,39,"Catano County, Puerto Rico",72033
+801,Puerto Rico,Fajardo,2018,24,0,44,29,0,"Fajardo County, Puerto Rico",72053
+802,Puerto Rico,Guayama,2018,342,0,40,6,0,"Guayama County, Puerto Rico",72057
+803,Puerto Rico,Guaynabo,2018,302,0,169,33,0,"Guaynabo County, Puerto Rico",72061
+804,Puerto Rico,Ponce,2018,357,0,118,71,0,"Ponce County, Puerto Rico",72113
+805,Rhode Island,Kent,2018,354,0,140,51,170,"Kent County, Rhode Island",44003
+806,Rhode Island,Providence,2018,365,0,147,61,193,"Providence County, Rhode Island",44007
+807,Rhode Island,Washington,2018,361,0,115,49,188,"Washington County, Rhode Island",44009
+808,South Carolina,Aiken,2018,228,0,93,50,228,"Aiken County, South Carolina",45003
+809,South Carolina,Anderson,2018,261,0,51,44,261,"Anderson County, South Carolina",45007
+810,South Carolina,Berkeley,2018,262,0,67,44,262,"Berkeley County, South Carolina",45015
+811,South Carolina,Charleston,2018,359,0,97,50,201,"Charleston County, South Carolina",45019
+812,South Carolina,Chesterfield,2018,344,0,104,54,225,"Chesterfield County, South Carolina",45025
+813,South Carolina,Colleton,2018,364,0,77,48,234,"Colleton County, South Carolina",45029
+814,South Carolina,Darlington,2018,231,0,87,46,231,"Darlington County, South Carolina",45031
+815,South Carolina,Edgefield,2018,355,0,90,50,256,"Edgefield County, South Carolina",45037
+816,South Carolina,Florence,2018,359,0,73,51,0,"Florence County, South Carolina",45041
+817,South Carolina,Georgetown,2018,326,0,44,27,0,"Georgetown County, South Carolina",45043
+818,South Carolina,Greenville,2018,365,0,87,55,208,"Greenville County, South Carolina",45045
+819,South Carolina,Horry,2018,289,0,87,48,289,"Horry County, South Carolina",45051
+820,South Carolina,Lexington,2018,365,0,92,53,0,"Lexington County, South Carolina",45063
+821,South Carolina,Oconee,2018,364,0,97,51,311,"Oconee County, South Carolina",45073
+822,South Carolina,Pickens,2018,273,0,87,50,273,"Pickens County, South Carolina",45077
+823,South Carolina,Richland,2018,365,0,101,53,274,"Richland County, South Carolina",45079
+824,South Carolina,Spartanburg,2018,365,0,77,56,154,"Spartanburg County, South Carolina",45083
+825,South Carolina,York,2018,362,0,115,57,286,"York County, South Carolina",45091
+826,South Dakota,Brookings,2018,365,0,101,54,292,"Brookings County, South Dakota",46011
+827,South Dakota,Brown,2018,121,1,429,45,0,"Brown County, South Dakota",46013
+828,South Dakota,Codington,2018,365,0,103,52,0,"Codington County, South Dakota",46029
+829,South Dakota,Custer,2018,365,0,88,51,349,"Custer County, South Dakota",46033
+830,South Dakota,Hughes,2018,354,0,108,32,0,"Hughes County, South Dakota",46065
+831,South Dakota,Jackson,2018,365,0,123,54,315,"Jackson County, South Dakota",46071
+832,South Dakota,Meade,2018,362,0,53,37,311,"Meade County, South Dakota",46093
+833,South Dakota,Minnehaha,2018,365,0,115,59,269,"Minnehaha County, South Dakota",46099
+834,South Dakota,Pennington,2018,365,0,118,59,0,"Pennington County, South Dakota",46103
+835,South Dakota,Union,2018,365,0,112,61,246,"Union County, South Dakota",46127
+836,Tennessee,Anderson,2018,360,0,90,50,229,"Anderson County, Tennessee",47001
+837,Tennessee,Blount,2018,365,0,108,58,270,"Blount County, Tennessee",47009
+838,Tennessee,Claiborne,2018,355,0,87,47,355,"Claiborne County, Tennessee",47025
+839,Tennessee,Davidson,2018,365,0,151,64,121,"Davidson County, Tennessee",47037
+840,Tennessee,DeKalb,2018,348,0,87,46,348,"DeKalb County, Tennessee",47041
+841,Tennessee,Dyer,2018,356,0,80,49,0,"Dyer County, Tennessee",47045
+842,Tennessee,Hamilton,2018,365,0,101,61,167,"Hamilton County, Tennessee",47065
+843,Tennessee,Jefferson,2018,244,0,100,61,244,"Jefferson County, Tennessee",47089
+844,Tennessee,Knox,2018,364,0,112,64,163,"Knox County, Tennessee",47093
+845,Tennessee,Lawrence,2018,352,0,66,47,0,"Lawrence County, Tennessee",47099
+846,Tennessee,Loudon,2018,365,0,133,54,198,"Loudon County, Tennessee",47105
+847,Tennessee,Madison,2018,351,0,78,49,0,"Madison County, Tennessee",47113
+848,Tennessee,Maury,2018,331,0,66,48,0,"Maury County, Tennessee",47119
+849,Tennessee,McMinn,2018,356,0,67,51,0,"McMinn County, Tennessee",47107
+850,Tennessee,Montgomery,2018,354,0,78,53,0,"Montgomery County, Tennessee",47125
+851,Tennessee,Putnam,2018,352,0,64,49,0,"Putnam County, Tennessee",47141
+852,Tennessee,Roane,2018,355,0,62,49,0,"Roane County, Tennessee",47145
+853,Tennessee,Sevier,2018,364,0,115,64,364,"Sevier County, Tennessee",47155
+854,Tennessee,Shelby,2018,365,0,133,68,232,"Shelby County, Tennessee",47157
+855,Tennessee,Sullivan,2018,365,0,114,74,158,"Sullivan County, Tennessee",47163
+856,Tennessee,Sumner,2018,346,0,133,58,208,"Sumner County, Tennessee",47165
+857,Tennessee,Williamson,2018,245,0,108,58,245,"Williamson County, Tennessee",47187
+858,Tennessee,Wilson,2018,191,0,119,61,191,"Wilson County, Tennessee",47189
+859,Texas,Bell,2018,365,0,136,54,365,"Bell County, Texas",48027
+860,Texas,Bexar,2018,365,0,162,70,199,"Bexar County, Texas",48029
+861,Texas,Bowie,2018,297,0,106,56,0,"Bowie County, Texas",48037
+862,Texas,Brazoria,2018,365,0,166,50,353,"Brazoria County, Texas",48039
+863,Texas,Brewster,2018,363,0,97,54,314,"Brewster County, Texas",48043
+864,Texas,Cameron,2018,365,0,99,64,127,"Cameron County, Texas",48061
+865,Texas,Collin,2018,361,0,150,71,361,"Collin County, Texas",48085
+866,Texas,Culberson,2018,115,0,78,44,0,"Culberson County, Texas",48109
+867,Texas,Dallas,2018,365,0,161,77,185,"Dallas County, Texas",48113
+868,Texas,Denton,2018,365,0,151,74,300,"Denton County, Texas",48121
+869,Texas,Ector,2018,337,0,91,53,0,"Ector County, Texas",48135
+870,Texas,El Paso,2018,365,0,164,84,190,"El Paso County, Texas",48141
+871,Texas,Ellis,2018,365,0,120,66,213,"Ellis County, Texas",48139
+872,Texas,Fayette,2018,330,0,96,53,0,"Fayette County, Texas",48149
+873,Texas,Freestone,2018,347,0,86,4,0,"Freestone County, Texas",48161
+874,Texas,Galveston,2018,365,0,202,57,295,"Galveston County, Texas",48167
+875,Texas,Gregg,2018,364,0,140,58,343,"Gregg County, Texas",48183
+876,Texas,Harris,2018,365,0,204,87,131,"Harris County, Texas",48201
+877,Texas,Harrison,2018,365,0,111,56,196,"Harrison County, Texas",48203
+878,Texas,Hidalgo,2018,363,0,115,67,114,"Hidalgo County, Texas",48215
+879,Texas,Hood,2018,362,0,133,54,362,"Hood County, Texas",48221
+880,Texas,Howard,2018,362,0,200,55,0,"Howard County, Texas",48227
+881,Texas,Hunt,2018,365,0,154,50,362,"Hunt County, Texas",48231
+882,Texas,Hutchinson,2018,358,0,168,126,0,"Hutchinson County, Texas",48233
+883,Texas,Jefferson,2018,365,0,154,78,162,"Jefferson County, Texas",48245
+884,Texas,Johnson,2018,354,0,156,61,354,"Johnson County, Texas",48251
+885,Texas,Kaufman,2018,365,0,122,58,260,"Kaufman County, Texas",48257
+886,Texas,Kleberg,2018,342,0,160,65,0,"Kleberg County, Texas",48273
+887,Texas,Lubbock,2018,303,0,134,49,0,"Lubbock County, Texas",48303
+888,Texas,Maverick,2018,342,0,100,54,0,"Maverick County, Texas",48323
+889,Texas,McLennan,2018,312,0,98,55,267,"McLennan County, Texas",48309
+890,Texas,Milam,2018,350,0,29,0,0,"Milam County, Texas",48331
+891,Texas,Montgomery,2018,365,0,156,74,264,"Montgomery County, Texas",48339
+892,Texas,Navarro,2018,365,0,200,80,213,"Navarro County, Texas",48349
+893,Texas,Nueces,2018,365,0,99,63,170,"Nueces County, Texas",48355
+894,Texas,Orange,2018,365,0,122,70,140,"Orange County, Texas",48361
+895,Texas,Parker,2018,359,0,164,51,359,"Parker County, Texas",48367
+896,Texas,Polk,2018,365,0,97,45,365,"Polk County, Texas",48373
+897,Texas,Potter,2018,365,0,161,79,0,"Potter County, Texas",48375
+898,Texas,Randall,2018,362,0,112,74,362,"Randall County, Texas",48381
+899,Texas,Robertson,2018,332,0,26,4,0,"Robertson County, Texas",48395
+900,Texas,Rockwall,2018,304,0,136,49,304,"Rockwall County, Texas",48397
+901,Texas,Rusk,2018,358,0,138,52,0,"Rusk County, Texas",48401
+902,Texas,Smith,2018,364,0,112,54,361,"Smith County, Texas",48423
+903,Texas,Tarrant,2018,365,0,166,82,190,"Tarrant County, Texas",48439
+904,Texas,Titus,2018,353,0,50,9,0,"Titus County, Texas",48449
+905,Texas,Travis,2018,365,0,115,67,156,"Travis County, Texas",48453
+906,Texas,Victoria,2018,279,0,112,38,279,"Victoria County, Texas",48469
+907,Texas,Webb,2018,313,0,107,64,150,"Webb County, Texas",48479
+908,Utah,Box Elder,2018,365,0,151,84,286,"Box Elder County, Utah",49003
+909,Utah,Cache,2018,365,0,133,77,265,"Cache County, Utah",49005
+910,Utah,Carbon,2018,364,0,115,77,361,"Carbon County, Utah",49007
+911,Utah,Davis,2018,365,0,151,86,259,"Davis County, Utah",49011
+912,Utah,Duchesne,2018,365,0,129,84,327,"Duchesne County, Utah",49013
+913,Utah,Garfield,2018,365,0,122,74,364,"Garfield County, Utah",49017
+914,Utah,Iron,2018,365,0,90,71,320,"Iron County, Utah",49021
+915,Utah,Salt Lake,2018,365,0,169,101,237,"Salt Lake County, Utah",49035
+916,Utah,San Juan,2018,356,0,119,77,352,"San Juan County, Utah",49037
+917,Utah,Tooele,2018,365,0,138,80,269,"Tooele County, Utah",49045
+918,Utah,Uintah,2018,365,0,156,87,348,"Uintah County, Utah",49047
+919,Utah,Utah,2018,365,0,162,93,269,"Utah County, Utah",49049
+920,Utah,Washington,2018,365,0,108,74,332,"Washington County, Utah",49053
+921,Utah,Wayne,2018,117,0,67,21,0,"Wayne County, Utah",49055
+922,Utah,Weber,2018,365,0,157,90,248,"Weber County, Utah",49057
+923,Vermont,Bennington,2018,365,0,101,50,278,"Bennington County, Vermont",50003
+924,Vermont,Chittenden,2018,365,0,89,51,280,"Chittenden County, Vermont",50007
+925,Vermont,Rutland,2018,365,0,90,57,238,"Rutland County, Vermont",50021
+926,Vermont,Windham,2018,117,0,51,26,0,"Windham County, Vermont",50025
+927,Virgin Islands,St Croix,2018,22,0,74,55,0,"St Croix County, Virgin Islands",
+928,Virgin Islands,St John,2018,2,0,24,24,0,"St John County, Virgin Islands",
+929,Virgin Islands,St Thomas,2018,183,0,126,55,0,"St Thomas County, Virgin Islands",
+930,Virginia,Albemarle,2018,310,0,93,52,213,"Albemarle County, Virginia",51003
+931,Virginia,Alexandria City,2018,78,0,11,10,0,"Alexandria City County, Virginia",51510
+932,Virginia,Arlington,2018,365,0,122,59,220,"Arlington County, Virginia",51013
+933,Virginia,Botetourt,2018,343,0,62,14,0,"Botetourt County, Virginia",51023
+934,Virginia,Bristol City,2018,116,0,67,47,0,"Bristol City County, Virginia",51520
+935,Virginia,Caroline,2018,241,0,84,49,241,"Caroline County, Virginia",51033
+936,Virginia,Carroll,2018,59,0,22,16,0,"Carroll County, Virginia",51035
+937,Virginia,Charles,2018,357,0,105,47,220,"Charles County, Virginia",
+938,Virginia,Chesterfield,2018,275,0,77,50,208,"Chesterfield County, Virginia",51041
+939,Virginia,Covington City,2018,365,0,55,16,0,"Covington City County, Virginia",51580
+940,Virginia,Fairfax,2018,365,0,101,62,141,"Fairfax County, Virginia",51600
+941,Virginia,Fauquier,2018,244,0,80,48,244,"Fauquier County, Virginia",51061
+942,Virginia,Frederick,2018,352,0,85,53,198,"Frederick County, Virginia",51069
+943,Virginia,Giles,2018,362,0,139,54,326,"Giles County, Virginia",51071
+944,Virginia,Hampton City,2018,362,0,97,50,212,"Hampton City County, Virginia",51650
+945,Virginia,Hanover,2018,238,0,97,54,238,"Hanover County, Virginia",51085
+946,Virginia,Henrico,2018,365,0,147,54,245,"Henrico County, Virginia",51087
+947,Virginia,Hopewell City,2018,61,0,19,14,0,"Hopewell City County, Virginia",51670
+948,Virginia,Loudoun,2018,365,0,93,54,235,"Loudoun County, Virginia",51107
+949,Virginia,Lynchburg City,2018,112,0,55,46,0,"Lynchburg City County, Virginia",51680
+950,Virginia,Madison,2018,356,0,90,51,337,"Madison County, Virginia",51113
+951,Virginia,Norfolk City,2018,365,0,60,34,0,"Norfolk City County, Virginia",51710
+952,Virginia,Prince Edward,2018,347,0,93,45,347,"Prince Edward County, Virginia",51147
+953,Virginia,Prince William,2018,345,0,100,48,244,"Prince William County, Virginia",51153
+954,Virginia,Richmond City,2018,364,0,75,53,0,"Richmond City County, Virginia",51760
+955,Virginia,Roanoke,2018,365,0,87,53,189,"Roanoke County, Virginia",51770
+956,Virginia,Rockbridge,2018,268,0,90,46,203,"Rockbridge County, Virginia",51163
+957,Virginia,Rockingham,2018,365,0,80,48,229,"Rockingham County, Virginia",51165
+958,Virginia,Salem City,2018,113,0,72,49,0,"Salem City County, Virginia",51775
+959,Virginia,Stafford,2018,264,0,112,50,245,"Stafford County, Virginia",51179
+960,Virginia,Suffolk City,2018,245,0,87,50,245,"Suffolk City County, Virginia",51800
+961,Virginia,Virginia Beach City,2018,107,0,65,49,0,"Virginia Beach City County, Virginia",51810
+962,Virginia,Winchester City,2018,60,0,20,16,0,"Winchester City County, Virginia",51840
+963,Virginia,Wythe,2018,237,0,84,54,237,"Wythe County, Virginia",51197
+964,Washington,Adams,2018,350,0,183,52,0,"Adams County, Washington",53001
+965,Washington,Asotin,2018,325,0,187,68,0,"Asotin County, Washington",53003
+966,Washington,Benton,2018,365,0,178,65,129,"Benton County, Washington",53005
+967,Washington,Chelan,2018,365,1,426,69,0,"Chelan County, Washington",53007
+968,Washington,Clallam,2018,365,0,205,55,182,"Clallam County, Washington",53009
+969,Washington,Clark,2018,365,0,135,55,130,"Clark County, Washington",53011
+970,Washington,Columbia,2018,307,0,181,53,0,"Columbia County, Washington",53013
+971,Washington,Cowlitz,2018,365,0,152,45,0,"Cowlitz County, Washington",53015
+972,Washington,Franklin,2018,360,0,174,52,0,"Franklin County, Washington",53021
+973,Washington,Garfield,2018,364,0,166,46,0,"Garfield County, Washington",53023
+974,Washington,Grant,2018,365,0,248,59,0,"Grant County, Washington",53025
+975,Washington,Grays Harbor,2018,365,0,163,39,0,"Grays Harbor County, Washington",53027
+976,Washington,Jefferson,2018,359,0,176,36,0,"Jefferson County, Washington",53031
+977,Washington,King,2018,365,0,192,68,109,"King County, Washington",53033
+978,Washington,Kitsap,2018,349,0,172,34,0,"Kitsap County, Washington",53035
+979,Washington,Kittitas,2018,358,0,197,57,0,"Kittitas County, Washington",53037
+980,Washington,Klickitat,2018,257,0,157,58,0,"Klickitat County, Washington",53039
+981,Washington,Lewis,2018,365,0,167,53,0,"Lewis County, Washington",53041
+982,Washington,Mason,2018,365,0,164,49,0,"Mason County, Washington",53045
+983,Washington,Okanogan,2018,365,1,311,79,0,"Okanogan County, Washington",53047
+984,Washington,Pierce,2018,365,0,178,73,240,"Pierce County, Washington",53053
+985,Washington,Skagit,2018,365,0,180,42,195,"Skagit County, Washington",53057
+986,Washington,Snohomish,2018,365,0,177,64,0,"Snohomish County, Washington",53061
+987,Washington,Spokane,2018,365,0,257,71,111,"Spokane County, Washington",53063
+988,Washington,Stevens,2018,365,0,197,70,0,"Stevens County, Washington",53065
+989,Washington,Thurston,2018,343,0,173,53,133,"Thurston County, Washington",53067
+990,Washington,Walla Walla,2018,365,0,217,57,0,"Walla Walla County, Washington",53071
+991,Washington,Whatcom,2018,365,0,182,77,56,"Whatcom County, Washington",53073
+992,Washington,Whitman,2018,365,0,177,52,0,"Whitman County, Washington",53075
+993,Washington,Yakima,2018,365,0,214,79,0,"Yakima County, Washington",53077
+994,West Virginia,Berkeley,2018,281,0,87,52,221,"Berkeley County, West Virginia",54003
+995,West Virginia,Brooke,2018,365,0,110,52,0,"Brooke County, West Virginia",54009
+996,West Virginia,Cabell,2018,282,0,100,55,217,"Cabell County, West Virginia",54011
+997,West Virginia,Gilmer,2018,360,0,90,44,360,"Gilmer County, West Virginia",54021
+998,West Virginia,Greenbrier,2018,232,0,84,48,232,"Greenbrier County, West Virginia",54025
+999,West Virginia,Hancock,2018,365,0,105,54,208,"Hancock County, West Virginia",54029
+1000,West Virginia,Harrison,2018,117,0,61,52,0,"Harrison County, West Virginia",54033
+1001,West Virginia,Kanawha,2018,365,0,105,55,168,"Kanawha County, West Virginia",54039
+1002,West Virginia,Marion,2018,117,0,63,51,0,"Marion County, West Virginia",54049
+1003,West Virginia,Marshall,2018,365,0,93,56,0,"Marshall County, West Virginia",54051
+1004,West Virginia,Mason,2018,347,0,124,23,0,"Mason County, West Virginia",54053
+1005,West Virginia,Mineral,2018,362,0,200,61,0,"Mineral County, West Virginia",54057
+1006,West Virginia,Monongalia,2018,341,0,93,49,224,"Monongalia County, West Virginia",54061
+1007,West Virginia,Ohio,2018,283,0,105,58,233,"Ohio County, West Virginia",54069
+1008,West Virginia,Tucker,2018,365,0,74,48,359,"Tucker County, West Virginia",54093
+1009,West Virginia,Wood,2018,363,0,77,47,220,"Wood County, West Virginia",54107
+1010,Wisconsin,Ashland,2018,360,0,84,49,332,"Ashland County, Wisconsin",55003
+1011,Wisconsin,Brown,2018,365,0,105,56,209,"Brown County, Wisconsin",55009
+1012,Wisconsin,Columbia,2018,246,0,122,51,246,"Columbia County, Wisconsin",55021
+1013,Wisconsin,Dane,2018,365,0,112,64,173,"Dane County, Wisconsin",55025
+1014,Wisconsin,Dodge,2018,365,0,133,64,251,"Dodge County, Wisconsin",55027
+1015,Wisconsin,Door,2018,224,0,133,51,224,"Door County, Wisconsin",55029
+1016,Wisconsin,Eau Claire,2018,365,0,129,62,190,"Eau Claire County, Wisconsin",55035
+1017,Wisconsin,Fond du Lac,2018,244,0,101,54,244,"Fond du Lac County, Wisconsin",55039
+1018,Wisconsin,Forest,2018,365,0,93,54,321,"Forest County, Wisconsin",55041
+1019,Wisconsin,Grant,2018,351,0,81,55,0,"Grant County, Wisconsin",55043
+1020,Wisconsin,Jefferson,2018,243,0,126,58,243,"Jefferson County, Wisconsin",55055
+1021,Wisconsin,Kenosha,2018,365,0,166,74,230,"Kenosha County, Wisconsin",55059
+1022,Wisconsin,Kewaunee,2018,240,0,151,64,240,"Kewaunee County, Wisconsin",55061
+1023,Wisconsin,La Crosse,2018,365,0,97,59,186,"La Crosse County, Wisconsin",55063
+1024,Wisconsin,Manitowoc,2018,239,0,169,64,239,"Manitowoc County, Wisconsin",55071
+1025,Wisconsin,Marathon,2018,232,0,97,54,232,"Marathon County, Wisconsin",55073
+1026,Wisconsin,Milwaukee,2018,365,0,151,71,184,"Milwaukee County, Wisconsin",55079
+1027,Wisconsin,Oneida,2018,365,0,69,16,0,"Oneida County, Wisconsin",55085
+1028,Wisconsin,Outagamie,2018,365,0,132,67,187,"Outagamie County, Wisconsin",55087
+1029,Wisconsin,Ozaukee,2018,363,0,169,66,225,"Ozaukee County, Wisconsin",55089
+1030,Wisconsin,Racine,2018,236,0,161,77,236,"Racine County, Wisconsin",55101
+1031,Wisconsin,Rock,2018,246,0,133,54,246,"Rock County, Wisconsin",55105
+1032,Wisconsin,Sauk,2018,365,0,122,59,209,"Sauk County, Wisconsin",55111
+1033,Wisconsin,Sheboygan,2018,239,0,185,84,239,"Sheboygan County, Wisconsin",55117
+1034,Wisconsin,Taylor,2018,365,0,93,58,266,"Taylor County, Wisconsin",55119
+1035,Wisconsin,Vilas,2018,360,0,100,52,206,"Vilas County, Wisconsin",55125
+1036,Wisconsin,Walworth,2018,237,0,126,58,237,"Walworth County, Wisconsin",55127
+1037,Wisconsin,Waukesha,2018,365,0,122,64,177,"Waukesha County, Wisconsin",55133
+1038,Wyoming,Albany,2018,365,0,115,74,296,"Albany County, Wyoming",56001
+1039,Wyoming,Big Horn,2018,348,0,84,51,348,"Big Horn County, Wyoming",56003
+1040,Wyoming,Campbell,2018,365,0,169,64,231,"Campbell County, Wyoming",56005
+1041,Wyoming,Carbon,2018,365,0,90,61,341,"Carbon County, Wyoming",56007
+1042,Wyoming,Converse,2018,365,0,102,55,329,"Converse County, Wyoming",56009
+1043,Wyoming,Fremont,2018,365,0,120,67,325,"Fremont County, Wyoming",56013
+1044,Wyoming,Johnson,2018,228,0,90,57,215,"Johnson County, Wyoming",56019
+1045,Wyoming,Laramie,2018,365,0,109,61,332,"Laramie County, Wyoming",56021
+1046,Wyoming,Lincoln,2018,365,0,82,44,0,"Lincoln County, Wyoming",56023
+1047,Wyoming,Natrona,2018,365,0,90,58,345,"Natrona County, Wyoming",56025
+1048,Wyoming,Park,2018,212,0,136,42,122,"Park County, Wyoming",56029
+1049,Wyoming,Platte,2018,61,0,55,36,0,"Platte County, Wyoming",56031
+1050,Wyoming,Sheridan,2018,365,0,123,67,303,"Sheridan County, Wyoming",56033
+1051,Wyoming,Sublette,2018,365,0,97,71,342,"Sublette County, Wyoming",56035
+1052,Wyoming,Sweetwater,2018,365,0,163,74,287,"Sweetwater County, Wyoming",56037
+1053,Wyoming,Teton,2018,365,0,106,61,340,"Teton County, Wyoming",56039
+1054,Wyoming,Uinta,2018,365,0,108,61,354,"Uinta County, Wyoming",56041
+1055,Wyoming,Weston,2018,365,0,101,54,340,"Weston County, Wyoming",56045
